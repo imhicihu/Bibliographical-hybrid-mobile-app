@@ -4,7 +4,7 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 
 ### What is this repository for? ###
 
-* ~~Hybrid Web-App - App -~~ Native App
+* Hybrid Web-App - App & Native App
 * Version 1.1
 
 
