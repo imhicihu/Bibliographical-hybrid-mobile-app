@@ -28,4 +28,4 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 * Repo owner or admin
      - Contact at `imhicihu at gmail dot com`
 * Other community or team contact
-     - Contact is _enable_ on the board of this repo. 
+     - Contact is _enable_ on the board of this repo. (You need a [Trello](https://trello.com/) account)
