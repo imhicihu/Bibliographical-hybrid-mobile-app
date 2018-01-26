@@ -1,6 +1,6 @@
 # Rationale #
 
-Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: Xcode, Swift, a browser, Javascript, React Native, Html5, CSS3, device emulators and many more. The initial goal: *it* must run on IOS & Android devices.
+Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: Xcode, Swift, a browser, Javascript, React Native, Html5, CSS3, device emulators and many more. This is an in-house solution with a technological update and upgrade.
 
 ### What is this repository for? ###
 
@@ -16,11 +16,11 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 * Dependencies
      - The less, the better. A personal _motto_.
 * Database configuration
-     - ~~The bibliographic data is converted to _.CSV_ format, in UTF-16 (There are some cyrillic issues, fixed up to now). This is a must condition for proper rendering and meet the rigid deadlines of the IOS ecosystem~~.
+     - The bibliographic data is converted to _.CSV_ format, in native UTF-16 format. (There are some cyrillic issues, fixed up to now). This is a must condition for proper rendering and meet the rigid deadlines of the IOS ecosystem.
 * How to run tests
-     - Soon 
+     - Soon on the AppStore and Google Play
 * Deployment instructions
-     - ~~Download from this repo or our _Github_ account the .IPA or .APK. Then install it on your device. Run it. _Presto_.~~ In development stage!
+     - There is no plan to release source code. 
 
 
 ### Who do I talk to? ###
