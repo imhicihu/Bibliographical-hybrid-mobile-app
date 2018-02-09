@@ -33,7 +33,9 @@ Opera Omnia t. 17, n. 2:De causis et processu universitatis a prima causa
 Jaarboek 1985 Werkgroep thomas van aquino
 Lexikon des Mittelalters Vol. 5 ---) Vol. 5 need parentheses
 Bautz, Friedrich W  should become Bautz, Friedrich Wilhelm
-
+Bautz, Friedrich Wilhem on #6622
+Opera omnia:Symposium
+Juan de Santo Tomás serie de filosofia española 12
 
  
 ```
