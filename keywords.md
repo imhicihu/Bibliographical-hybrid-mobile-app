@@ -16,5 +16,16 @@
  Opera Omnia t. 17, n. 2:De causis et processu universitatis a prima causa
  Fray Luis De Leon aproximación a su vida y obra
  De ore Domini:preacher and word in the Middle Ages
+ Ascensio,Eugenio
+ Guía de los archivos y las bibliotecas de la Iglesia en España-I.Archivos
+ El Dialogus contra iudaeos de Pedro Alfonso (tesis doctoral, mimeo)
+ Balthasar, Hans U
+ Herrlichkeit  T.I
+Herrlichkeit  T.II/1
+Herrlichkeit  T.II/2
+Herrlichkeit  T.III,1
+Herrlichkeit  T.III,2/1
+Herrlichkeit  T.III,2/2
+
  
 ```
