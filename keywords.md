@@ -36,6 +36,13 @@ Bautz, Friedrich W  should become Bautz, Friedrich Wilhelm
 Bautz, Friedrich Wilhem on #6622
 Opera omnia:Symposium
 Juan de Santo Tomás serie de filosofia española 12
+-----------------------
+Bautz, Friedrich Wilhem on #6622
+Opera omnia:Symposium
+Juan de Santo Tomás serie de filosofia española 12
+Saint Agustin el La Bible
+Branderberger, Erna should be Erna Brandenberger
+6767 & 6768 - Geschichte der lateinischen Literatur des Mittelalters-Band I - double record?
 
  
 ```
