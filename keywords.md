@@ -84,6 +84,16 @@ Gonzalvez Ruiz, Ramon  —) Gonzálvez Ruíz, Ramón
 Grützmacher, Richard H —) Grützmacher, Richard H.
 Guillermo Fraile, O.P. —) Fraile, Guillermo O.P.
 DE SCIENTIIS  —-) De Scientiis
+Gutierrez, C  —) Gutiérrez, C.
+Repertorium initiorum manuscriptorum latinorum medii aevi Vol. II D-=  (check the last words-specification)
+Harald Wagner  —) Wagner, Harald
+Hartmann, Stephanie —) ¿ Hartmann, Stéphanie ?
+Hebreo, Leon  —) Hebreo, León
+Hegel, Geor W. F —) Hegel, Georg W.F.
+Heinz Wipfler  ——) Wipfler, Heinz
+Herausgegeben von Hans (ed.) —) needs more data
+Herbert Haag  —) Herbert, Haag
+Herbert Hammans  —) Hammans, Herbert
 
 
  
