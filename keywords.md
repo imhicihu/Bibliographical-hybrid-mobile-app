@@ -43,6 +43,12 @@ Juan de Santo Tomás serie de filosofia española 12
 Saint Agustin el La Bible
 Branderberger, Erna should be Erna Brandenberger
 6767 & 6768 - Geschichte der lateinischen Literatur des Mittelalters-Band I - double record?
+Buttner, F.O. ed.  —) Buttner, F.O. (ed.)
+Caeiro F.Da Gama
+Carrete Parrondo, Carlos (ed)  —) Carrete Parrondo, Carlos (ed.) 
+El manuscrito apologetico de Alfonso de Zamora  -) El manuscrito apologético de Alfonso de Zamora
+Chenu,  M.D —) Chenu,  M.D.
+#6865 —) Chevin, —) needs author
 
  
 ```
