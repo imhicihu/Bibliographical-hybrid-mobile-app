@@ -73,6 +73,17 @@ Florz García, Gonzalo  —) Flórez García, Gonzalo
 rhs Religionsunterricht an höeren Schulen  — Religionsunterricht an höeren Schulen (rhs)
 herejía y sociedad en el siglo XVI  —) Herejía y sociedad en el siglo XVI
 García,Antonio —) García, Antonio
+Catalogo de los manuscritos juridicos medievales de la catedral de tolrdo  —) Catálogo de los manuscritos jurídicos medievales de la catedral de Toledo
+Gérard Remy  —) Gérard, Remy
+Gert Hummel  —-) Gert, Hummel
+Gilbert Dahan, — ) Dahan, Gilbert
+Gisbert Greshake  —) Greshake, Gisbert
+Temas dogmáticos del Concilio Vatincano  —) Temas dogmáticos del Concilio Vaticano
+Agustin Antolinez  —) Agustín Antolínez
+Gonzalvez Ruiz, Ramon  —) Gonzálvez Ruíz, Ramón
+Grützmacher, Richard H —) Grützmacher, Richard H.
+Guillermo Fraile, O.P. —) Fraile, Guillermo O.P.
+DE SCIENTIIS  —-) De Scientiis
 
 
  
