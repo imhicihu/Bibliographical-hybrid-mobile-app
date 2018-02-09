@@ -49,6 +49,9 @@ Carrete Parrondo, Carlos (ed)  —) Carrete Parrondo, Carlos (ed.)
 El manuscrito apologetico de Alfonso de Zamora  -) El manuscrito apologético de Alfonso de Zamora
 Chenu,  M.D —) Chenu,  M.D.
 #6865 —) Chevin, —) needs author
+Cilvetti, Ángel  or Cilveti, Ángel ?
+Colón, Cristobal  —) Colón, Cristóbal
+Cortazar, Julio  —) Cortázar, Julio
 
  
 ```
