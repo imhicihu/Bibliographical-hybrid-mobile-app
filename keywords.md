@@ -52,6 +52,14 @@ Chenu,  M.D —) Chenu,  M.D.
 Cilvetti, Ángel  or Cilveti, Ángel ?
 Colón, Cristobal  —) Colón, Cristóbal
 Cortazar, Julio  —) Cortázar, Julio
+Cristobal Plantino  —) Plantino, Cristóbal ?
+Cubillas Muñoz, Catalina M   —) Cubillos Muñoz, Catalina María ?
+#6920 & 6921 : double record?
+Nicolás de Cusa, "De Sapientia": Un nuevo concepto de sabiduria a la luz de la tradición medieval (separata)   —) sabiduría
+D'Onofrio, Giulio, dir  —) D'Onofrio, Giulio, (dir.)
+de Hamel
+de Estella, Diego  —)  De Estella, Diego ?
+de Lubac, Henri   —)  De Lubac, Henri  ?
 
  
 ```
