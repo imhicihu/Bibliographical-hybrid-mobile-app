@@ -94,6 +94,17 @@ Heinz Wipfler  ——) Wipfler, Heinz
 Herausgegeben von Hans (ed.) —) needs more data
 Herbert Haag  —) Herbert, Haag
 Herbert Hammans  —) Hammans, Herbert
+Herman Schell  —) Schell, Herman
+Hernandez Montes, Benigno   —) Hernández Montes, Benigno
+Hofmann, Fritz   ——) Hoffmann, Fritz
+Hugo Rahner   —) Rahner, Hugo
+Huré, Jaques  ——) Huré, Jacques
+JacobGrimm-Wilhelm Grimm  —) Jacob Grimm-Wilhelm Grimm
+Jacques Fontaine  —) Fontaine, Jacques
+Jaime, Montañes —) Montañes, Jaime
+Johannes vom Kreuz  —) von Kreuz, Johannes
+Karl Rahner  —) Rahner, Karl
+Karl- Heinz Ohlig —) Ohlig, Karl-Heinz
 
 
  
