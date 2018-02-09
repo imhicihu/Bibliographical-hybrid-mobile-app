@@ -26,6 +26,11 @@ Herrlichkeit  T.II/2
 Herrlichkeit  T.III,1
 Herrlichkeit  T.III,2/1
 Herrlichkeit  T.III,2/2
+»Geschichtlichkeit« 
+Humanismo y Renacimiento Estudios hispano-europeos
+Psalterium glosatum:salterio anglo-catalán
+Opera Omnia t. 17, n. 2:De causis et processu universitatis a prima causa
+Jaarboek 1985 Werkgroep thomas van aquino
 
  
 ```
