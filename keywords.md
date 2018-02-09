@@ -32,6 +32,7 @@ Psalterium glosatum:salterio anglo-catalán
 Opera Omnia t. 17, n. 2:De causis et processu universitatis a prima causa
 Jaarboek 1985 Werkgroep thomas van aquino
 Lexikon des Mittelalters Vol. 5 ---) Vol. 5 need parentheses
+Bautz, Friedrich W  should become Bautz, Friedrich Wilhelm
 
 
  
