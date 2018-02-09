@@ -60,6 +60,20 @@ D'Onofrio, Giulio, dir  —) D'Onofrio, Giulio, (dir.)
 de Hamel
 de Estella, Diego  —)  De Estella, Diego ?
 de Lubac, Henri   —)  De Lubac, Henri  ?
+Del Valle Rodrìguez, Carlos   —) Del Valle Rodríguez, Carlos
+Obras completas de Donoso Cortes II   —) Obras completas de Donoso Cortés II ?
+Eco, Umberto (ed)  —) Eco, Umberto (ed.)
+Eicher,Peter  —) Eicher, Peter
+Esquerda Bifet, Juan ed  —) Esquerda Bifet, Juan (ed.)
+Evans, G. R —) Evans, G.R.
+Facultade de Filosofia SaoBoaventura  —) Facultade de Filosofia São Boaventura
+Fernandez Alvarez, Manuel  —) Fernández Alvarez, Manuel
+Fary Luis De Leon la poda florecinete  —) Fray Luis De Leon la poda floreciente
+Florz García, Gonzalo  —) Flórez García, Gonzalo
+rhs Religionsunterricht an höeren Schulen  — Religionsunterricht an höeren Schulen (rhs)
+herejía y sociedad en el siglo XVI  —) Herejía y sociedad en el siglo XVI
+García,Antonio —) García, Antonio
+
 
  
 ```
