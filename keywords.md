@@ -105,6 +105,12 @@ Jaime, Montañes —) Montañes, Jaime
 Johannes vom Kreuz  —) von Kreuz, Johannes
 Karl Rahner  —) Rahner, Karl
 Karl- Heinz Ohlig —) Ohlig, Karl-Heinz
+Kasemann, Ernst —) Käsemann, Ernst
+Kommentar von Peter K. Klein  —) Klein, Peter K.
+Leo Scheffczyk  —) Scheffczyk, Leo
+Lothar Lies —) Lies, Lothar
+Ludovici Molina  —-) Ludovici de Molina, J.C.
+Mis fuentes están en ti- Estudios bíblicos de literatura española —) “Mis fuentes están en ti”: Estudios bíblicos de literatura española
 
 
  
