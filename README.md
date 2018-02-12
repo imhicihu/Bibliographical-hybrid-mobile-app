@@ -12,7 +12,7 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 
 * Summary of set up
 * Software
-     - Xcode, NPM, Bower, Google Chrome, Chrome Developers Toolbox, Docker, Android File Transfer, mobile emulators...
+     - Xcode, NPM, Bower, Google Chrome, Chrome Developers Toolbox, Brackets, Docker, Android File Transfer, mobile emulators...
 * Dependencies
      - The less, the better. A personal _motto_.
 * Database configuration
