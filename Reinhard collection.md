@@ -40,4 +40,9 @@
 * Toledo en la historia dfel pensamiento español renacentista
 * Venerabilis,petrus
 * Juan de Cartagena, O.F.M. (1563-1618). The Mariology og his Homiliae Catholicae and its Baroque Scripturism
+* Vinayo, Antonio
+* Vladimir Solowjew  ---) `Solowjew, Vladimir`
+* Von Bigen, Hildegard  ---) `Von Bingen, Hildegard`
+* Wofhart Pannenberg  ----) `Pannenberg, Wolfhart`
+* Zimmermann Heinrich ---) `Zimmermann. Heinrich`
 * 
