@@ -22,3 +22,12 @@
 * Secret, F
 * Semmelroth,otto
 * Solov'ev, Vladimir  (cfr. `Solowjew, Wladimir`)
+* Spicker, Gideon.
+* Lessing's Weltanschauung.
+* Concilium 17.Jahrgang, Heft 3
+* Ineinsfall der Gegensätze und Weisheit des Nichtwissens:Grundzüge der Philosophie des Nikolaus von Kues
+* Repertorium BiBlicum Medii Aevi Vol. 2
+* die Frühchristliche Kunst
+* Estudios de Valencia. Historia de la Universidad hasat 1616
+* Teubner, B. G
+* Torres Amat, Felix  ---) Torres Amat, Félix
