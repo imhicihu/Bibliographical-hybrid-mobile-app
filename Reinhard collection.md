@@ -31,3 +31,9 @@
 * Estudios de Valencia. Historia de la Universidad hasat 1616
 * Teubner, B. G
 * Torres Amat, Felix  ---) Torres Amat, Félix
+* Urbel, Justo.
+* La España del siglo X:castellanos y leoneses, navarros y gallegos, musulmanes y judíos, forjadores de historia
+* Urlich Horst, P
+* Vacant A   ---) `Vacant, A-`
+* Bonaventura:Studien zu seiner Wirkungsgeschichte
+* Vannier, Marie anne   ---) `Vannier, Marie-Anne`
