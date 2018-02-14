@@ -15,4 +15,10 @@
 * schmaus,Michael
 * Schmider, Cristoph
 * Schmidt, Margot, ed
-* 
+* Scholem,Gerhard
+* das evangelium nach mattäus
+* Schriftelesung,geistliche
+* Aisthesis:die Wahrnehmung des Menschen
+* Secret, F
+* Semmelroth,otto
+* Solov'ev, Vladimir  (cfr. `Solowjew, Wladimir`)
