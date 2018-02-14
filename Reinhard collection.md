@@ -51,4 +51,7 @@
 * Scripturæ Sacræ Tomus Vigesimus-Septimus Supllementum
 * Rubio Merino, Pedro (editor)
 * Santiago-Otero, Horacio (editor)
+* Barret, Pierre y Gurgand, Jean
+* jun 1984 / dic 1988 / mar 1989  /  set 1989   /   
+* los marcos regionales-
 * 
