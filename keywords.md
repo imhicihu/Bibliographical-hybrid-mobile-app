@@ -111,6 +111,7 @@ Leo Scheffczyk  —) Scheffczyk, Leo
 Lothar Lies —) Lies, Lothar
 Ludovici Molina  —-) Ludovici de Molina, J.C.
 Mis fuentes están en ti- Estudios bíblicos de literatura española —) “Mis fuentes están en ti”: Estudios bíblicos de literatura española
+Martìn Abad, Juliàn
 
 
  
