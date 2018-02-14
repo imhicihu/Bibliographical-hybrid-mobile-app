@@ -54,4 +54,8 @@
 * Barret, Pierre y Gurgand, Jean
 * jun 1984 / dic 1988 / mar 1989  /  set 1989   /   
 * los marcos regionales-
+* ed. La desconstrucción- 
+* la contaminación del agua subterranea con plaguicidas.
+* Santiago M. , dir. 
+* López Basavilbaso, G. Argentina. CFI.
 * 
