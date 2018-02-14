@@ -112,7 +112,30 @@ Lothar Lies —) Lies, Lothar
 Ludovici Molina  —-) Ludovici de Molina, J.C.
 Mis fuentes están en ti- Estudios bíblicos de literatura española —) “Mis fuentes están en ti”: Estudios bíblicos de literatura española
 Martìn Abad, Juliàn
-
+Literatura Hebraicoespañola
+Moritz, arne
+Muller, Gerhard
+Murphy, Roland.E., ed
+Mursia,Ugo
+Mussner,Franz
+La Dispute de barcelone
+Nestle-Aland
+Neufeld, Karl H 
+Postillae in vetus et novum testamentum de Ni
+Cusanus-Texte III. Marginalien 5. Apuleius. Hermes Trismegistus aus Codex Bruxellensis 10054-56
+Nicolle, Jean-marie
+Judische schriften aus hellenistisch-romische zeit band 6-1,4
+Judische schriften aus hellenistisch-romische zeit band 6-1,5
+Olegario Gonzalez de Cardedal
+Biobibliografía de Joaquim Veríssimo Serrão
+Palencia,Ángel Gonzalez
+La renaissance du XIIe siècle:les écoles et l'enseignement.
+Patavini, S. Antonii
+Paul Overhage
+Pedro Alfonso
+Pedro Alfonso de Huesca
+Pelikan,Jaroslav
+Plante, Julián (comp)
 
  
 ```
