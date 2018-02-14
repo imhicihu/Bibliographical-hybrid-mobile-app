@@ -34,6 +34,10 @@
 * Urbel, Justo.
 * La España del siglo X:castellanos y leoneses, navarros y gallegos, musulmanes y judíos, forjadores de historia
 * Urlich Horst, P
-* Vacant A   ---) `Vacant, A-`
+* Vacant A   ---) `Vacant, A`
 * Bonaventura:Studien zu seiner Wirkungsgeschichte
 * Vannier, Marie anne   ---) `Vannier, Marie-Anne`
+* Toledo en la historia dfel pensamiento español renacentista
+* Venerabilis,petrus
+* Juan de Cartagena, O.F.M. (1563-1618). The Mariology og his Homiliae Catholicae and its Baroque Scripturism
+* 
