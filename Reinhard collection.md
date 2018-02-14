@@ -45,4 +45,10 @@
 * Von Bigen, Hildegard  ---) `Von Bingen, Hildegard`
 * Wofhart Pannenberg  ----) `Pannenberg, Wolfhart`
 * Zimmermann Heinrich ---) `Zimmermann. Heinrich`
+* Exposicao bibiliográfica
+* Manuscritos e incunables de la Bilbioteca del Real Seminario Sacerdotal de San Carlos de Zaragoza
+* Scripta arabica orientalia:dos estudios de literatura árabe cristiana
+* Scripturæ Sacræ Tomus Vigesimus-Septimus Supllementum
+* Rubio Merino, Pedro (editor)
+* Santiago-Otero, Horacio (editor)
 * 
