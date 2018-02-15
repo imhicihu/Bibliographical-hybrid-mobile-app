@@ -58,4 +58,6 @@
 * la contaminación del agua subterranea con plaguicidas.
 * Santiago M. , dir. 
 * López Basavilbaso, G. Argentina. CFI.
+* <GATA>: <Guía Argentina de Tráfico Aéreo>. Buenos Aires: Tall. gráficos.
+* Coyuntura, Buenos Aires.
 * 
