@@ -1,3 +1,4 @@
+* https://github.com/bvaughn/react-virtualized/blob/master/docs/Table.md   (list of attributes to configure)
 * [React Navigation](https://github.com/react-navigation/)
 * https://reactnavigation.org/
 * https://reactnavigation.org/docs/alternatives.html
