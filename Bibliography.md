@@ -9,12 +9,16 @@
 
 
 ## React Native / React JS
-* _Learning React_ de Alex Banks & Eve Porcello  (O'Reilly Media, 2017)
-* _Mastering React Native_ de Eric Masiello & Jacob Friedmann (Packt Publishing, 2017)
-* _ReactJS Blueprints_ de Sven Anders Robbestad (Packt Publishing, 2016)
+* _Learning React_: Alex Banks & Eve Porcello  (O'Reilly Media, 2017)
+* _Mastering React Native_: Eric Masiello & Jacob Friedmann (Packt Publishing, 2017)
+* _ReactJS Blueprints_: Sven Anders Robbestad (Packt Publishing, 2016)
+* _ReactJS by Example – Building Modern Web Applications with React_: Vipul Amler & Prathamesh Sonpatki (Packt Publishing Limited, 2017)
+* _Mastering React_: Adam Horton & Ryan Vice (Packt Publishing, 2016)
+* _React.js Essentials_: Artemij Fedosejev (Packt Publishing Limited, 2015)
+* _Getting Started with React Native_: Ethan Holmes & Tom Bray (Packt Publishing Limited, 2015)
 	
 	
 ## Javascript
-* _Javascript: The Good parts_ de Douglas Crockford (O`Reilly Media, 2008)
-* _Javascript: The definitive guide_, 4th edition de David Flanagan (O'Reilly Media, 2001)
+* _Javascript: The Good parts_: Douglas Crockford (O`Reilly Media, 2008)
+* _Javascript: The definitive guide_: David Flanagan (O'Reilly Media, 2001)
 * [The Mozilla Developer Network: Javascript resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
