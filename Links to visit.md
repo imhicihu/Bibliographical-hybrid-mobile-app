@@ -1,4 +1,5 @@
 * [React Navigation](https://github.com/react-navigation/)
+* https://reactnavigation.org/
 * https://reactnavigation.org/docs/alternatives.html
 * https://react-bootstrap-table.github.io/react-bootstrap-table2/   (check the [Storybook](https://storybook.js.org). It can be a sort of demo - tutorial of how-to browse the database)
 * https://github.com/sussol/react-native-generic-table-page 
