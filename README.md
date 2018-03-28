@@ -10,7 +10,6 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 
 ### How do I get set up? ###
 
-* Summary of set up
 * Software
      - Xcode, NPM, Bower, Google Chrome, Chrome Developers Toolbox, Brackets, Google Spreadsheet, [CodeSandbox](https://codesandbox.io/), Docker, Android File Transfer, mobile emulators...
 * Dependencies
@@ -19,6 +18,9 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
      - The bibliographic data is converted to _.CSV_ format, in native UTF-16 format. (There are some cyrillic issues, fixed up to now). This is a _must_ condition for proper rendering and meet the rigid deadlines of the iOS ecosystem. Meanwhile, some bibliographic repository project related with this one, can be seen [here](https://bitbucket.org/imhicihu/database-on-mobile-device). That in-house solution evolved, and that data leverage this repository, hence this app.  
 * How to run tests
      - Soon on the AppStore and Google Play. Meanwhile, some work-around project [(ISKM2017)](https://bitbucket.org/imhicihu/iskm2017) can be seen and downloaded [here](https://play.google.com/store/apps/details?id=com.iskm2017.app_120833_124594&hl=es).
+     
+     ![iskm2017.png](https://bitbucket.org/repo/5qRy4oR/images/2542914166-iskm2017.png)
+
 * Deployment instructions
      - There is no plan to release source code. 
 
