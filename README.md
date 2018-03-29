@@ -28,6 +28,6 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     - Contact at `imhicihu at gmail dot com`
+     - Contact at `imhicihu` at `gmail` dot `com`
 * Other community or team contact
      - Contact is _enable_ on the board of this repo. (You need a [Trello](https://trello.com/) account)
