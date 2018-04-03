@@ -1,5 +1,6 @@
 * https://github.com/bvaughn/react-virtualized/blob/master/docs/Table.md   (list of attributes to configure)
 * [React Navigation](https://github.com/react-navigation/)
+* [Deploy a React application on Kubernetes](https://github.com/IBM/deploy-react-kubernetes)
 * https://reactnavigation.org/
 * https://reactnavigation.org/docs/alternatives.html
 * https://react-bootstrap-table.github.io/react-bootstrap-table2/   (check the [Storybook](https://storybook.js.org). It can be a sort of demo - tutorial of how-to browse the database)
