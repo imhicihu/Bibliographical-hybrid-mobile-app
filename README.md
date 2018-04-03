@@ -1,6 +1,6 @@
 # Rationale #
 
-Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: Xcode, Swift, a browser, Javascript, React Native, Html5, CSS3, device emulators and many more. This is an in-house solution with a technological update and upgrade.
+Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: Xcode, Swift, a browser, Javascript, React Native, Html5, Css3, device emulators and many more. This is an in-house solution with a technological update and upgrade.
 
 ### What is this repository for? ###
 
@@ -30,4 +30,4 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 * Repo owner or admin
      - Contact at `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-     - Contact is _enable_ on the board of this repo. (You need a [Trello](https://trello.com/) account)
+     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-webapp-app/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
