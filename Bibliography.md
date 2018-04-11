@@ -22,3 +22,6 @@
 * _Javascript: The Good parts_: Douglas Crockford (O`Reilly Media, 2008)
 * _Javascript: The definitive guide_: David Flanagan (O'Reilly Media, 2001)
 * [The Mozilla Developer Network: Javascript resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Miscelleneous
+* ~~_[Make your apps serverless](https://www.creativebloq.com/features/how-to-make-your-apps-serverless)_, Net, may 2017, p.96-97~~ ---> read, but out of our possibilities
