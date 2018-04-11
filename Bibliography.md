@@ -25,3 +25,4 @@
 
 ## Miscelleneous
 * ~~_[Make your apps serverless](https://www.creativebloq.com/features/how-to-make-your-apps-serverless)_, Net, may 2017, p.96-97~~ ---> read, but out of our possibilities
+* _Beginning Hybrid Mobile Application Development_: Mahesh Panhale (Apress, 2015)
