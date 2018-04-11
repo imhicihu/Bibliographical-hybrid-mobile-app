@@ -1,6 +1,6 @@
 # Rationale #
 
-Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: ~~Xcode~~, Swift, a browser, Javascript, React Native, Html5, Css3, device emulators and many more. This is an in-house solution with a technological update and upgrade.
+Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: ~~Xcode, Swift~~, a browser, Javascript, React Native, Html5, Css3, device emulators and many more. This is an in-house solution with a technological update and upgrade.
 
 ### What is this repository for? ###
 
