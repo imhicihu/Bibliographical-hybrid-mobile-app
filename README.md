@@ -15,7 +15,7 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 * Dependencies
      - The less, the better. A personal _motto_.
 * Database configuration
-     - The bibliographic data is converted to _.CSV_ format, in UTF-8 format. (There are some cyrillic issues, fixed up to now). This is a _must_ condition for proper rendering and meet the rigid deadlines of the iOS ecosystem. Meanwhile, some bibliographic [repository](https://bitbucket.org/imhicihu/databases-repositories) projects related with this one, can be seen [here](https://bitbucket.org/imhicihu/database-on-mobile-device). That in-house solution evolved, and that data leverage this repository, hence this app.  
+     - The bibliographic data is converted to _.CSV_ format, in UTF-8 format. ~~(There are some cyrillic issues, fixed up to now). This is a _must_ condition for proper rendering and meet the rigid deadlines of the iOS ecosystem.~~ Meanwhile, some bibliographic [repository](https://bitbucket.org/imhicihu/databases-repositories) projects related with this one, can be seen [here](https://bitbucket.org/imhicihu/database-on-mobile-device). That in-house solution evolved, and that data leverage this repository, hence this app.  
 * How to run tests
      - Soon on the AppStore and Google Play. Meanwhile, some work-around project [(ISKM2017)](https://bitbucket.org/imhicihu/iskm2017) can be seen and downloaded [here](https://play.google.com/store/apps/details?id=com.iskm2017.app_120833_124594&hl=es).
      
