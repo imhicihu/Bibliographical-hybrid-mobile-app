@@ -1,3 +1,4 @@
+* [Android emulator](https://www.genymotion.com/)
 * https://github.com/bvaughn/react-virtualized/blob/master/docs/Table.md   (list of attributes to configure)
 * [React Navigation](https://github.com/react-navigation/)
 * [Deploy a React application on Kubernetes](https://github.com/IBM/deploy-react-kubernetes)
