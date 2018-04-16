@@ -18,8 +18,7 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
      - The bibliographic data is converted to _.CSV_ format, in UTF-8 format. ~~(There are some cyrillic issues, fixed up to now). This is a _must_ condition for proper rendering and meet the rigid deadlines of the iOS ecosystem.~~ Meanwhile, some bibliographic [repository](https://bitbucket.org/imhicihu/databases-repositories) projects related with this one, can be seen [here](https://bitbucket.org/imhicihu/database-on-mobile-device). That _in-house_ solution evolved, and that data leverage this repository, hence this app.  
 * How to run tests
      - Soon on the ~~AppStore~~ and Google Play. Meanwhile, some work-around project [(ISKM2017)](https://bitbucket.org/imhicihu/iskm2017) can be [visited](http://www.imhicihu-conicet.gob.ar/iskm2017/) and the ISKM2017 companion app can be downloaded [here](https://play.google.com/store/apps/details?id=com.iskm2017.app_120833_124594&hl=es).
-     
-     ![iskm2017.png](https://bitbucket.org/repo/Gg8Xdg7/images/4097326788-iskm2017.png)
+     ![4097326788-iskm2017.png](https://bitbucket.org/repo/5qRy4oR/images/1965449092-4097326788-iskm2017.png)
 
 * Deployment instructions
      - There is no plan to release source code. 
