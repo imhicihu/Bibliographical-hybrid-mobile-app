@@ -24,3 +24,6 @@
 * https://reactnavigation.org/
 * https://reactnavigation.org/docs/alternatives.html
 * [Copy to clipboard](https://medium.com/the-react-native-log/react-native-basics-copy-to-clipboard-86023cda4175)  (give it a try, because of an idea I got ---> the book or author choosen, paste it in the mail to reserve it)
+
+### Deploment
+* [Fastlane](https://fastlane.tools/) (part of Google?)
