@@ -11,7 +11,17 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 ### How do I get set up? ###
 
 * Software
-     - ~~Xcode,~~ NPM, Bower, Google Chrome, Chrome Developers Toolbox, Brackets, Google Spreadsheet, [CodeSandbox](https://codesandbox.io/), Docker, Android File Transfer, mobile emulators...
+     - ~~Xcode,~~ 
+     - NPM
+     - Bower 
+     - Google Chrome
+     - Chrome Developers Toolbox 
+     - Brackets
+     - Google Spreadsheet
+     - [CodeSandbox](https://codesandbox.io/)
+     - Docker
+     - Android File Transfer
+     - mobile emulators
 * Dependencies
      - The less, the better. A personal _motto_.
 * Database configuration
@@ -23,6 +33,9 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 * Deployment instructions
      - There is _no_ plan to release source code
 
+### Issues ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-webapp-app/issues)
 
 ### Who do I talk to? ###
 
