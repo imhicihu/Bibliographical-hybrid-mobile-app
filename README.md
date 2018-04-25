@@ -4,9 +4,8 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 
 ### What is this repository for? ###
 
-* Hybrid Web-App - App & Native App
+* Hybrid Mobile-Native App
 * Version 1.1
-
 
 ### How do I get set up? ###
 
@@ -18,6 +17,7 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
      - Chrome Developers Toolbox 
      - Brackets
      - Google Spreadsheet
+     - [Jest](https://facebook.github.io/jest/en/)
      - [CodeSandbox](https://codesandbox.io/)
      - Docker
      - Android File Transfer
