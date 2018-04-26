@@ -11,17 +11,20 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 
 * Software
      - ~~Xcode,~~ 
-     - NPM
-     - Bower 
+     - [NPM](https://www.npmjs.com/)
+     - [Bower](https://bower.io/)
      - Google Chrome
      - Chrome Developers Toolbox 
-     - Brackets
+     - [Brackets](http://brackets.io/)
      - Google Spreadsheet
      - [Jest](https://facebook.github.io/jest/en/)
      - [CodeSandbox](https://codesandbox.io/)
-     - Docker
-     - Android File Transfer
-     - mobile emulators
+     - [Docker](https://www.docker.com/)
+     - [Android File Transfer](https://www.android.com/filetransfer/)
+     - mobile emulators:
+          * [Bluestacks](https://www.bluestacks.com/)
+          * [Android Studio Simulator](https://developer.android.com/studio/index.html)
+          * [ARChon](http://archon-runtime.github.io/)
 * Dependencies
      - The less, the better. A personal _motto_.
 * Database configuration
