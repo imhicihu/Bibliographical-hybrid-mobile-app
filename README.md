@@ -36,10 +36,6 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 * Deployment instructions
      - There is _no_ plan to release source code
 
-### Issues ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-webapp-app/issues)
-
 ### Who do I talk to? ###
 
 * Repo owner or admin
