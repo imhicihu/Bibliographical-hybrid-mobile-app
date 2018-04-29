@@ -16,6 +16,7 @@
 * _Mastering React_: Adam Horton & Ryan Vice (Packt Publishing, 2016)
 * _React.js Essentials_: Artemij Fedosejev (Packt Publishing Limited, 2015)
 * _Getting Started with React Native_: Ethan Holmes & Tom Bray (Packt Publishing Limited, 2015)
+* _React Design Patterns and Best Practices_: Michele Bertoli (Packt Publishing, 2017)
 	
 	
 ## Javascript
