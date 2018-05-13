@@ -1,4 +1,6 @@
-* agregar los dos libros de Javascript que leÃ­
+* agregar los dos libros de Javascript que leí
 * create an account in https://expo.io/
 * download the [app](https://itunes.apple.com/app/apple-store/id982107779?pt=17102800&amp;ct=www&amp;mt=8)
-* create account on: https://www.haiku.ai/account/new 
+* create account on: https://www.haiku.ai/account/new
+* verify what license apply to this "kind of project": MIT, etc...
+* Google Play demands a site to offer assistance, even if its a free app. So, we need to generate a website with FAQ, tutorials, etc.
