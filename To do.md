@@ -4,3 +4,4 @@
 * create account on: https://www.haiku.ai/account/new
 * verify what license apply to this "kind of project": MIT, etc...
 * Google Play demands a site to offer assistance, even if its a free app. So, we need to generate a website with FAQ, tutorials, etc.
+* Privacy stuff: check this https://app-privacy-policy-generator.firebaseapp.com/   // https://github.com/nisrulz/app-privacy-policy-generator
