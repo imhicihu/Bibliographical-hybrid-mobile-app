@@ -24,7 +24,8 @@
 * _Javascript: The definitive guide_: David Flanagan (O'Reilly Media, 2001)
 * [The Mozilla Developer Network: Javascript resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * _Javascript for kids_, Nick Morgan (No Starch Press, 2014) --> Read on, elementary, but it was worth reading
+* Get programming with Javascript: John R. Larsen (Manning Publications, 2016)
 
-## Miscelleneous
+## Miscellaneous
 * ~~_[Make your apps serverless](https://www.creativebloq.com/features/how-to-make-your-apps-serverless)_ Net, may 2017, p.96-97~~ ---> read, but out of our possibilities. We need a `https` server --> _sine qua non_ condition
 * _Beginning Hybrid Mobile Application Development_: Mahesh Panhale (Apress, 2015)
