@@ -32,9 +32,11 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 * How to run tests
      - Soon on the ~~AppStore~~ and Google Play. Meanwhile, some work-around project [(ISKM2017)](https://bitbucket.org/imhicihu/iskm2017) can be [visited](http://www.imhicihu-conicet.gob.ar/iskm2017/) and the ISKM2017 companion app can be downloaded [here](https://play.google.com/store/apps/details?id=com.iskm2017.app_120833_124594&hl=es).
      ![4097326788-iskm2017.png](https://bitbucket.org/repo/5qRy4oR/images/1965449092-4097326788-iskm2017.png)
-
 * Deployment instructions
      - There is _no_ plan to release source code
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/commits/) section for the current status
 
 ### Who do I talk to? ###
 
