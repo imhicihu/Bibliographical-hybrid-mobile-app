@@ -14,3 +14,12 @@
     - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
     - [Jest](https://facebook.github.io/jest/en/) (javascript testing tool)
     - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
+    - [Atom](https://atom.io) (code editor)
+    - Atom packages
+        - React
+        - React Snippets
+        - atom-react-native-style
+        - react-native-components
+        - react-generatr
+        - react-builder
+        - react-storybook-snippets
