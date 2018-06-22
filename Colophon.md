@@ -5,6 +5,7 @@
         - Macbook 15"
         - Macbook Air 11" (_not eligible for data-table-grid cleaning_)
         - Macbook 13"
+        - 21" Dell monitor
     
 * Software
     - [OpenRefine](http://openrefine.org/) (open-source tool for cleaning messy data)
