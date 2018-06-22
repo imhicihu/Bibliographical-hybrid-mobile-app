@@ -6,3 +6,4 @@
 * Google Play demands a site to offer assistance, even if its a free app. So, we need to generate a website with FAQ, tutorials, etc.
 * Privacy stuff: check this https://app-privacy-policy-generator.firebaseapp.com/   // https://github.com/nisrulz/app-privacy-policy-generator
 * verify with Patricia about App Store policy under Conicet's umbrella. Particularly about copyright and legal directives & statements
+* [Heroku](https://www.heroku.com/) account creation
