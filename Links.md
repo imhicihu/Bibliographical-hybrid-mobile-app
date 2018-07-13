@@ -14,9 +14,10 @@
 * https://github.com/Microsoft/react-native-windows   (developing for Windows 7 or later)
 * https://react-bootstrap-table.github.io/react-bootstrap-table2/   (check the [Storybook](https://storybook.js.org). It can be a sort of demo - tutorial of how-to browse the database)
 * https://github.com/sussol/react-native-generic-table-page
+* https://stackoverflow.com/questions/42459098/data-table-for-react-native#
 
 ## Javascript
-* Javascript blunded assets: [Webpack](https://github.com/webpack/webpack)
+* Javascript bundled assets: [Webpack](https://github.com/webpack/webpack)
 
 ### React Native]
 * https://github.com/storybooks/storybook   // Check this examples about the possibilities offered: https://storybook.js.org/examples/
