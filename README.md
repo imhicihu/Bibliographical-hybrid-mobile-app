@@ -34,6 +34,11 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
      ![4097326788-iskm2017.png](https://bitbucket.org/repo/5qRy4oR/images/1965449092-4097326788-iskm2017.png)
 * Deployment instructions
      - There is _no_ plan to release source code
+
+### Source ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/src)
+
 ### Changelog ###
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/commits/) section for the current status
