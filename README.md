@@ -14,6 +14,7 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
      - [NPM](https://www.npmjs.com/)
      - [Bower](https://bower.io/)
      - Google Chrome
+     - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
      - Chrome Developers Toolbox 
      - [Brackets](http://brackets.io/)
      - Google Spreadsheet
