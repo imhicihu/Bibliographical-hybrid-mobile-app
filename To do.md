@@ -8,3 +8,5 @@
 * verify with Patricia about App Store policy under Conicet's umbrella. Particularly about copyright and legal directives & statements
 * [Heroku](https://www.heroku.com/) account creation
 * Check this: https://semantic-ui.com/collections/table.html
+* https://thenounproject.com/
+* 
