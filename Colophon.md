@@ -27,3 +27,4 @@
         - react-storybook-snippets
 * Online tools
     - http://responsivedesignchecker.com/
+    - http://deviceponsive.com/
