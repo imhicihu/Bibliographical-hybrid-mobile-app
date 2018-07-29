@@ -28,4 +28,5 @@
 * Online tools
     - http://responsivedesignchecker.com/
     - http://deviceponsive.com/
+    - [Sentry](https://sentry.io/): error tracking
     - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
