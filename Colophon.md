@@ -16,6 +16,7 @@
     - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
     - [Jest](https://facebook.github.io/jest/en/) (javascript testing tool)
     - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
+    - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?src=collection): runs over Mozilla Developers tools
     - [Atom](https://atom.io) (code editor)
     - Atom packages
         - React
