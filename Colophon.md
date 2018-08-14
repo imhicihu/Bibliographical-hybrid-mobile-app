@@ -28,6 +28,7 @@
         - react-storybook-snippets
 * Online tools
     - http://responsivedesignchecker.com/
+    - https://www.browserstack.com/
     - http://deviceponsive.com/
     - [Sentry](https://sentry.io/): error tracking
     - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
