@@ -1,6 +1,7 @@
 * ~~agregar los dos libros de Javascript que leí~~
 * https://www.browserstack.com/open-source
 * create an account in https://expo.io/
+* http://saucelabs.com/
 * download the [app](https://itunes.apple.com/app/apple-store/id982107779?pt=17102800&amp;ct=www&amp;mt=8)
 * create account on: https://www.haiku.ai/account/new
 * verify what license apply to this "kind of project": MIT, etc...
