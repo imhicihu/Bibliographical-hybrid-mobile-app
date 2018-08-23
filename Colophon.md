@@ -10,6 +10,7 @@
 * Software
     - [OpenRefine](http://openrefine.org/) (open-source tool for cleaning messy data)
     - [Deco IDE](https://www.decoide.org/)
+    - [Tabula](https://github.com/tabulapdf/tabula): data tables
     - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Duplicati](https://www.duplicati.com/) (open-source backup software)
     - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator)
