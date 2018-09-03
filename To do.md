@@ -1,5 +1,6 @@
 * [ReactXP](https://github.com/Microsoft/reactxp)
 * [React Native for Web](https://github.com/necolas/react-native-web)
+* [Reactotron](https://github.com/infinitered/reactotron/): app inspector (**take in count!*)
 * ~~agregar los dos libros de Javascript que leí~~
 * https://www.browserstack.com/open-source
 * create an account in https://expo.io/
