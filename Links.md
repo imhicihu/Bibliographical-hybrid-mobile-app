@@ -35,6 +35,9 @@
 ### Deployment
 * [Fastlane](https://fastlane.tools/) (part of Google?)
 
+### Icons
+* a kind of [FontAwesome generator](https://icomoon.io/app/#/select)
+
 ### UX
 * https://www.figma.com/
 
