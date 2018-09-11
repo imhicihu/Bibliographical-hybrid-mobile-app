@@ -37,3 +37,4 @@
     - [Sentry](https://sentry.io/): error tracking
     - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
     - [Javascript validator](https://validatejavascript.com/)
+    * [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
