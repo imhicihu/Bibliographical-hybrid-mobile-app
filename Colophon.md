@@ -31,10 +31,12 @@
         - [React Hot Loader](https://github.com/gaearon/react-hot-loader) --> motif: Tweak React components in real time
         - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?src=collection): runs over Mozilla Developers tools
 * Online tools
-    - http://responsivedesignchecker.com/
-    - https://www.browserstack.com/
-    - http://deviceponsive.com/
+    - Testing and validators
+        - http://responsivedesignchecker.com/
+        - https://www.browserstack.com/
+        - http://deviceponsive.com/
     - [Sentry](https://sentry.io/): error tracking
     - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
     - [Javascript validator](https://validatejavascript.com/)
     * [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
+    * [Plunker](https://plnkr.co/edit/tpl:wxQVHKHmyJVjcBJQsk6q): online React development. For coding and tests
