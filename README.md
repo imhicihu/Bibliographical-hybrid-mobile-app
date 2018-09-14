@@ -1,3 +1,5 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
 # Rationale #
 
 Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: ~~Xcode, Swift~~, a browser, Javascript, React Native, Html5, Css3, device emulators and many more. This is an _in-house_ solution that it will be evolving in the future
@@ -11,8 +13,6 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
 
 * Software
      - ~~Xcode,~~ 
-     - [NPM](https://www.npmjs.com/)
-     - [Bower](https://bower.io/)
      - Google Chrome
      - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
      - Chrome Developers Toolbox 
@@ -28,6 +28,7 @@ Workflow / Seminal Project: A kind of hybrid app involving different languages a
           * [ARChon](http://archon-runtime.github.io/)
 * Dependencies
      - [NPM](https://www.npmjs.com/)
+     - [Bower](https://bower.io/)
 * Database configuration
      - The bibliographic data is converted to _.CSV_ in UTF-8 format. ~~(There are some cyrillic issues, fixed up to now). This is a _must_ condition for proper rendering and meet the rigid deadlines of the iOS ecosystem.~~ Meanwhile, some bibliographic [repository](https://bitbucket.org/imhicihu/databases-repositories) projects related with this one, can be seen [here](https://bitbucket.org/imhicihu/database-on-mobile-device). That _in-house_ solution evolved, and that data leverage this repository, hence this app.  
 * How to run tests
