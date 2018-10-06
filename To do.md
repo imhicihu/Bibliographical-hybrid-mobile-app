@@ -14,3 +14,4 @@
 * [Heroku](https://www.heroku.com/) account creation
 * Check this: https://semantic-ui.com/collections/table.html
 * check this integration: Bootstrap --> React https://react-bootstrap.github.io/
+* edit blank space in the beginning of some paragraph in `keyword.md`
