@@ -10,22 +10,23 @@
 * Software
     - [OpenRefine](http://openrefine.org/) (open-source tool for cleaning messy data)
     - [Deco IDE](https://www.decoide.org/)
-    - [Tabula](https://github.com/tabulapdf/tabula): data tables
+    - [Tabula](https://github.com/tabulapdf/tabula): (Data tables management)
     - [Duplicati](https://www.duplicati.com/) (open-source backup software)
-    - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator)
-    - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
-    - [Jest](https://facebook.github.io/jest/en/) (javascript testing tool)
+    - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator): CSV self-validator
+    - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator
+    - [Jest](https://facebook.github.io/jest/en/) (Javascript testing tool)
     - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
-    - [Fast Lane](https://fastlane.tools/): automatization of deployments of apps
+    - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
+    - [Fast Lane](https://fastlane.tools/): (Automatization of deployments of apps)
     - [Atom](https://atom.io) (code editor)
-    - Atom packages
-        - React
-        - React Snippets
-        - atom-react-native-style
-        - react-native-components
-        - react-generatr
-        - react-builder
-        - react-storybook-snippets
+        + Atom packages
+            * React
+            + React Snippets
+            - atom-react-native-style
+            - react-native-components
+            - react-generatr
+            - react-builder
+            - react-storybook-snippets
     - React stuff:
         - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
         - [React Hot Loader](https://github.com/gaearon/react-hot-loader) --> motif: Tweak React components in real time
