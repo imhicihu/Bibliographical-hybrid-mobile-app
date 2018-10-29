@@ -1,6 +1,8 @@
 ### Emulators 
 * [Android emulator](https://www.genymotion.com/)
 
+### Accesibility
+* [Death to icon fonts](https://speakerdeck.com/ninjanails/death-to-icon-fonts?slide=18)
 
 ### Data tables
 * [How-to: Create **accessible** data tables](https://a11yproject.com/posts/accessible-data-tables/%20https://a11yproject.com/posts/accessible-data-tables/)
