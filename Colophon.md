@@ -27,11 +27,13 @@
             - react-generatr
             - react-builder
             - react-storybook-snippets
+            - [Nuclide](https://nuclide.io/)
     - React _stuff_:
         - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
         - [React Hot Loader](https://github.com/gaearon/react-hot-loader) --> motif: Tweak React components in real time
         - [React DOM testing utilities](https://github.com/kentcdodds/react-testing-library): 
         - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?src=collection): runs over Mozilla Developers tools
+        - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native): Visual Studio plugin for the react development environment
 * Online tools
     - Testing and validators
         - http://responsivedesignchecker.com/
