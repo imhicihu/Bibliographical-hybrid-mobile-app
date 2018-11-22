@@ -44,4 +44,11 @@
     - [Javascript validator](https://validatejavascript.com/)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - [Plunker](https://plnkr.co/edit/tpl:wxQVHKHmyJVjcBJQsk6q): online React development. For coding and (internal) tests
-    - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
+    - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
+
+* Documentation
+     - [Developer certificate](https://developercertificate.org/)
+
+## Legal ##
+
+* All trademarks are the property of their respective owners.
