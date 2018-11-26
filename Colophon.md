@@ -34,6 +34,7 @@
         - [React DOM testing utilities](https://github.com/kentcdodds/react-testing-library): 
         - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?src=collection): runs over Mozilla Developers tools
         - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native): Visual Studio plugin for the react development environment
+        - [React Navigation](https://reactnavigation.org/)
 * Online tools
     - Testing and validators
         - http://responsivedesignchecker.com/
