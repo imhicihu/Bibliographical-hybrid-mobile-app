@@ -40,6 +40,7 @@
         - http://responsivedesignchecker.com/
         - https://www.browserstack.com/
         - http://deviceponsive.com/
+        - [Bugsnag](https://github.com/bugsnag/)
     - [Sentry](https://sentry.io/): error tracking
     - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
     - [Javascript validator](https://validatejavascript.com/)
