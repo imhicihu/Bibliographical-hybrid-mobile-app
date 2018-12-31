@@ -50,6 +50,7 @@
 
 * Documentation
      - [Developer certificate](https://developercertificate.org/)
+     - Windows (and something in between, ie. Android) [accessibility guidelines](https://github.com/Microsoft/WindowsTemplateStudio/blob/dev/docs/accessibility.md)
 
 ## Legal ##
 
