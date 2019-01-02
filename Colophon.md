@@ -18,6 +18,7 @@
     - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
     - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
     - [Fast Lane](https://fastlane.tools/): (Automatization of deployments of apps)
+    - [Transifex](https://www.transifex.com/): localization of internal text strings
     - [Atom](https://atom.io) (code editor)
         + Atom packages
             * React
@@ -51,6 +52,7 @@
 * Documentation
      - [Developer certificate](https://developercertificate.org/)
      - Windows (and something in between, ie. Android) [accessibility guidelines](https://github.com/Microsoft/WindowsTemplateStudio/blob/dev/docs/accessibility.md)
+     - [Localization checklist](https://www.transifex.com/resources/website-translation-checklist/)
 
 ## Legal ##
 
