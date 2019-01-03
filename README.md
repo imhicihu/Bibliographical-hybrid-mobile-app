@@ -2,22 +2,23 @@
 
 # Rationale #
 
-Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: ~~Xcode, Swift~~, a browser, Javascript, React Native, Html5, Css3, device emulators and many more. This is an _in-house_ solution that it will be evolving in the future
+* Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: ~~Xcode~~, ~~Swift~~, a browser, Javascript, React Native, Html5, Css3, device emulators and many more. This is an _in-house_ solution that it will be evolving in the future.
+* This repo is a living document that will grow and adapt over time.
 
 ### What is this repository for? ###
 
-* Hybrid Mobile-Native App
+* In a nutshell, a hybrid mobile-native app
 * Version 1.1
 
 ### How do I get set up? ###
 
 * Software
-     - ~~Xcode,~~ 
-     - Google Chrome
+     - ~~[Xcode](https://developer.apple.com/xcode/)~~ 
+     - [Google Chrome](https://www.google.com/chrome/)
      - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-     - Chrome Developers Toolbox 
+     - [Chrome Developers Toolbox](https://developers.google.com/web/tools/chrome-devtools/)
      - [Brackets](http://brackets.io/)
-     - Google Spreadsheet
+     - [Google Spreadsheets](https://docs.google.com/spreadsheets/)
      - [Jest](https://facebook.github.io/jest/en/)
      - [CodeSandbox](https://codesandbox.io/)
      - [Docker](https://www.docker.com/)
