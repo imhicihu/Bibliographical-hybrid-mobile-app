@@ -14,7 +14,7 @@
     - [Duplicati](https://www.duplicati.com/) (open-source backup software)
     - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator): CSV self-validator
     - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator
-    - [Jest](https://facebook.github.io/jest/en/) (Javascript testing tool)
+    - [Jest](https://jestjs.io/) (Javascript testing tool)
     - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
     - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
     - [Fast Lane](https://fastlane.tools/): (Automatization of deployments of apps)
