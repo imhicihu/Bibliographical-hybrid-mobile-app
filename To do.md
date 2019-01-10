@@ -4,6 +4,8 @@
 * [Reactotron](https://github.com/infinitered/reactotron/): app inspector (**take in count!*)
 * ~~agregar los dos libros de Javascript que leí~~
 * https://www.browserstack.com/open-source
+* left-to-right & right-to-left writing support
+* change app runtime language (support): English & Spanish ¿French?
 * create an account in https://expo.io/
 * http://saucelabs.com/
 * download the [app](https://itunes.apple.com/app/apple-store/id982107779?pt=17102800&amp;ct=www&amp;mt=8)
