@@ -18,6 +18,7 @@
     - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
     - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
     - [Fast Lane](https://fastlane.tools/): (Automatization of deployments of apps)
+    - [Google Books API](https://developers.google.com/books/)
     - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - [Transifex](https://www.transifex.com/): localization of internal text strings
     - [Atom](https://atom.io) (code editor)
