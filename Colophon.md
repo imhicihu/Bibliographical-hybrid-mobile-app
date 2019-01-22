@@ -41,6 +41,7 @@
         - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?src=collection): runs over Mozilla Developers tools
         - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native): Visual Studio plugin for the react development environment
         - [React Navigation](https://reactnavigation.org/)
+        - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
 
 * Online tools
     - Testing and validators
@@ -57,7 +58,7 @@
     - Javascript:
         - [Jest](https://jestjs.io/) (Javascript testing tool)
         - [Javascript validator](https://validatejavascript.com/)
-        - [Node.js®](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
+        - [Node.jsï¿½](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
     - [Google Books API](https://developers.google.com/books/)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
