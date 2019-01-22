@@ -8,8 +8,7 @@
         - 21" Dell monitor
     
 * Software
-    - IDE:
-        - [Deco IDE](https://www.decoide.org/)
+    
     - Backup:
         - [Duplicati](https://www.duplicati.com/) (open-source backup software)
     - Database handling:
@@ -23,16 +22,18 @@
     - [Google Books API](https://developers.google.com/books/)
     - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - [Transifex](https://www.transifex.com/): localization of internal text strings
-    - [Atom](https://atom.io) (code editor)
-        + Atom packages
-            * React
-            + React Snippets
-            - atom-react-native-style
-            - react-native-components
-            - react-generatr
-            - react-builder
-            - react-storybook-snippets
-            - [Nuclide](https://nuclide.io/)
+    - IDE:
+        - [Deco IDE](https://www.decoide.org/)
+        - [Atom](https://atom.io) (code editor)
+            + Atom packages
+                - React
+                - React Snippets
+                - atom-react-native-style
+                - react-native-components
+                - react-generatr
+                - react-builder
+                - react-storybook-snippets
+                - [Nuclide](https://nuclide.io/)
     - React _stuff_:
         - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
         - [React Hot Loader](https://github.com/gaearon/react-hot-loader) --> motif: Tweak React components in real time
