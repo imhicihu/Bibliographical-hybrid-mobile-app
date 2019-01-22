@@ -11,6 +11,7 @@
     
     - Backup:
         - [Duplicati](https://www.duplicati.com/) (open-source backup software)
+        - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - Database handling:
         - [OpenRefine](http://openrefine.org/) (open-source tool for cleaning messy data)
         - [Tabula](https://github.com/tabulapdf/tabula): (Data tables management)
@@ -19,9 +20,7 @@
         - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator 
     - [Homebrew](http://brew.sh/): package manager for MacOSX
     - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
-    - [Google Books API](https://developers.google.com/books/)
     - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
-    - [Transifex](https://www.transifex.com/): localization of internal text strings
     - IDE:
         - [Deco IDE](https://www.decoide.org/)
         - [Atom](https://atom.io) (code editor)
@@ -37,6 +36,7 @@
     - React _stuff_:
         - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
         - [React Hot Loader](https://github.com/gaearon/react-hot-loader) --> motif: Tweak React components in real time
+        - [Plunker](https://plnkr.co/edit/tpl:wxQVHKHmyJVjcBJQsk6q): online React development. For coding and (internal) tests
         - [React DOM testing utilities](https://github.com/kentcdodds/react-testing-library): 
         - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?src=collection): runs over Mozilla Developers tools
         - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native): Visual Studio plugin for the react development environment
@@ -48,16 +48,20 @@
         - https://www.browserstack.com/
         - http://deviceponsive.com/
         - [Bugsnag](https://github.com/bugsnag/)
-    - [Sentry](https://sentry.io/): error tracking
-    - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
-    - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
-    - [Fast Lane](https://fastlane.tools/): (Automatization of deployments of apps)
-    - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
+    - Dependencies
+        - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
+        - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
+    - Automatization on coding stage
+        - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
+        - [Fast Lane](https://fastlane.tools/): (Automatization of deployments of apps)
     - Javascript:
         - [Jest](https://jestjs.io/) (Javascript testing tool)
         - [Javascript validator](https://validatejavascript.com/)
+        - [Node.js®](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
+    - [Google Books API](https://developers.google.com/books/)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
-    - [Plunker](https://plnkr.co/edit/tpl:wxQVHKHmyJVjcBJQsk6q): online React development. For coding and (internal) tests
+    - [Sentry](https://sentry.io/): error tracking
+    - [Transifex](https://www.transifex.com/): localization of internal text strings
     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
 
 * Documentation
