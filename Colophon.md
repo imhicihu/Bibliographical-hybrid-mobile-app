@@ -57,7 +57,8 @@
     - Javascript:
         - [Jest](https://jestjs.io/) (Javascript testing tool)
         - [Javascript validator](https://validatejavascript.com/)
-        - [Node.jsÂ®](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
+        - [Node.js®](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
+        - [NPM](https://www.npmjs.com/): package manager for JavaScript
     - [Google Books API](https://developers.google.com/books/)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - [Sentry](https://sentry.io/): error tracking
