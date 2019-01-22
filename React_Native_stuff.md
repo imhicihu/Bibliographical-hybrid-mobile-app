@@ -15,3 +15,4 @@
 * https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae
 * [Copy to clipboard](https://medium.com/the-react-native-log/react-native-basics-copy-to-clipboard-86023cda4175)  (give it a try, because of an idea I got ---> the book or author choosen, paste it in the mail to reserve it)
 * [Essential React Native Development Tools](https://instabug.com/blog/react-native-development/)
+![IMG_4303.PNG](https://bitbucket.org/repo/5qRy4oR/images/579521404-IMG_4303.PNG)
