@@ -18,7 +18,9 @@
         - [Tabula](https://github.com/tabulapdf/tabula): (Data tables management)
     - Data validators:
         - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator): CSV self-validator
-        - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator 
+        - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator
+    - Virtual Devices:
+        - [Genymotion](https://www.genymotion.com/)
     - [Homebrew](http://brew.sh/): package manager for MacOSX
     - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
     - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
