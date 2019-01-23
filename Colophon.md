@@ -11,7 +11,8 @@
     
     - Backup:
         - [Duplicati](https://www.duplicati.com/) (open-source backup software)
-        - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
+        - [Smash](https://www.fromsmash.com/): (unlimited digital moving/transfer of digital assets)
+        - [IFTTT](https://ifttt.com/): cross-linking between online services for the purpose of backup capabilities and mirroring of digital assets
     - Database handling:
         - [OpenRefine](http://openrefine.org/) (open-source tool for cleaning messy data)
         - [Tabula](https://github.com/tabulapdf/tabula): (Data tables management)
@@ -44,16 +45,18 @@
         - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
 
 * Online tools
-    - Testing and validators
+    - Testing and validators:
         - [ResponsiveDesignChecker](phttp://responsivedesignchecker.com/)
         - [BrowserStack](https://www.browserstack.com/)
         - [DevicePonsive](http://deviceponsive.com/)
-        - [Bugsnag](https://github.com/bugsnag/)
-    - Dependencies
+    - Bug reporting:
+        - [Instabug](https://instabug.com/): bug reporting and feedback from the beta testers
+        - [Bugsnag](https://github.com/bugsnag/bugsnag-react-native)
+    - Dependencies:
         - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
         - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
         - [Yarn](https://yarnpkg.com): dependency manager for node.js
-    - Automatization on coding stage
+    - Automatization on coding stage:
         - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
         - [Fast Lane](https://fastlane.tools/): (Automatization of deployments of apps)
     - Javascript:
