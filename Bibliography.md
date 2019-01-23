@@ -5,14 +5,19 @@
 ![IMG_3933.JPG](https://bitbucket.org/repo/EBnakg/images/2010186733-IMG_3933.JPG)
 >_Manual de referencia mini-micro CDS/ISIS: versión 2.3_. Paris: Unesco, 1990. xvi, 352 p.; 25 cm. --) ===> Solicitar a/por: `Depósito Proatlas 006204`
 
+
+![IMG_3941.JPG](https://bitbucket.org/repo/EBnakg/images/1594535796-IMG_3941.JPG)
 > _Bibliografía de publicaciones editadas en 1993: incorporadas a la base de datos de PROATLAS_. Buenos Aires: PROATLAS, mar 1994. 2, 34, 8, 3, 15 h.; 28 cm.  ===> Solicitar a/por: `Depósito Proatlas 006800`
+
 
 ![IMG_3934.JPG](https://bitbucket.org/repo/EBnakg/images/2616186962-IMG_3934.JPG)
 > _Bibliografía del material ingresado en la base de datos "TERRAE": 1992-1993_. Buenos Aires: PROATLAS, set 1994. 2 v.; 28 cm. ===> Solicitar a/por: `Depósito Proatlas 006801`
 
+
 ![IMG_3935.JPG](https://bitbucket.org/repo/EBnakg/images/3349047127-IMG_3935.JPG)
 ![IMG_3936.JPG](https://bitbucket.org/repo/EBnakg/images/140601805-IMG_3936.JPG)
 > _Jornadas Nacionales sobre Microisis_. 3., Mar del Plata, 1993. ===> Solicitar a/por: `Depósito Proatlas 006802`
+
 
 ![IMG_3937.JPG](https://bitbucket.org/repo/EBnakg/images/1038105783-IMG_3937.JPG)
 ![IMG_3939.JPG](https://bitbucket.org/repo/EBnakg/images/2774671328-IMG_3939.JPG)
