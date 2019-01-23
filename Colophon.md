@@ -45,20 +45,21 @@
 
 * Online tools
     - Testing and validators
-        - http://responsivedesignchecker.com/
-        - https://www.browserstack.com/
-        - http://deviceponsive.com/
+        - [ResponsiveDesignChecker](phttp://responsivedesignchecker.com/)
+        - [BrowserStack](https://www.browserstack.com/)
+        - [DevicePonsive](http://deviceponsive.com/)
         - [Bugsnag](https://github.com/bugsnag/)
     - Dependencies
         - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
         - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
+        - [Yarn](https://yarnpkg.com): dependency manager for node.js
     - Automatization on coding stage
         - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
         - [Fast Lane](https://fastlane.tools/): (Automatization of deployments of apps)
     - Javascript:
         - [Jest](https://jestjs.io/) (Javascript testing tool)
         - [Javascript validator](https://validatejavascript.com/)
-        - [Node.js�](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
+        - [Node.js](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
     - [Google Books API](https://developers.google.com/books/)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
@@ -68,7 +69,7 @@
 
 * Documentation
      - [Developer certificate](https://developercertificate.org/)
-     - Windows (and something in between, _ie._ Android) [accessibility guidelines](https://github.com/Microsoft/WindowsTemplateStudio/blob/dev/docs/accessibility.md)
+     - Windows (and something in between, _ie._ Android environment) [accessibility guidelines](https://github.com/Microsoft/WindowsTemplateStudio/blob/dev/docs/accessibility.md)
      - [Localization checklist](https://www.transifex.com/resources/website-translation-checklist/)
 
 ## Legal ##
