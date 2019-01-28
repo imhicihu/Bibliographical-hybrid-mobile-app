@@ -52,7 +52,7 @@
         - [BrowserStack](https://www.browserstack.com/)
         - [DevicePonsive](http://deviceponsive.com/)
         - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
-        - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn’t adhere to certain style guidelines
+        - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesnï¿½t adhere to certain style guidelines
     - Bug reporting:
         - [Instabug](https://instabug.com/): bug reporting and feedback from the beta testers
         - [Bugsnag](https://github.com/bugsnag/bugsnag-react-native)
@@ -69,6 +69,7 @@
         - [Node.js](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
     - [Google Books API](https://developers.google.com/books/)
+    - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - [Sentry](https://sentry.io/): error tracking
     - [Transifex](https://www.transifex.com/): localization of internal text strings
