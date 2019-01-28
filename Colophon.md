@@ -51,7 +51,8 @@
         - [ResponsiveDesignChecker](phttp://responsivedesignchecker.com/)
         - [BrowserStack](https://www.browserstack.com/)
         - [DevicePonsive](http://deviceponsive.com/)
-        - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesnâ€™t adhere to certain style guidelines
+        - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
+        - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn’t adhere to certain style guidelines
     - Bug reporting:
         - [Instabug](https://instabug.com/): bug reporting and feedback from the beta testers
         - [Bugsnag](https://github.com/bugsnag/bugsnag-react-native)
