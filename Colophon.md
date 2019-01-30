@@ -75,6 +75,7 @@
     - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - [Sentry](https://sentry.io/): error tracking
+    - [Fontello](http://fontello.com/): icon font generator
     - [Transifex](https://www.transifex.com/): localization of internal text strings
     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
 
