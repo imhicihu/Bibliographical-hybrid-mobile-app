@@ -45,6 +45,7 @@
         - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native): Visual Studio plugin for the react development environment
         - [React Navigation](https://reactnavigation.org/)
         - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
+    - _CHECK_ THIS [issue](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/issues/16/software)
 
 * Online tools
     - Testing and validators:
@@ -52,7 +53,7 @@
         - [BrowserStack](https://www.browserstack.com/)
         - [DevicePonsive](http://deviceponsive.com/)
         - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
-        - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn�t adhere to certain style guidelines
+        - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn't adhere to certain style guidelines
     - Bug reporting:
         - [Instabug](https://instabug.com/): bug reporting and feedback from the beta testers
         - [Bugsnag](https://github.com/bugsnag/bugsnag-react-native)
