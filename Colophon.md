@@ -70,6 +70,7 @@
     - Javascript:
         - [Jest](https://jestjs.io/) (Javascript testing tool)
         - [Javascript validator](https://validatejavascript.com/)
+        - [Grunt.js](https://gruntjs.com/): automatization of javascript workload
         - [Node.js](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
     - [Google Books API](https://developers.google.com/books/)
