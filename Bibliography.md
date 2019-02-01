@@ -45,6 +45,7 @@
 * [The Mozilla Developer Network: Javascript resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * _Javascript for kids_, Nick Morgan (No Starch Press, 2014) --> Read on, elementary, but it was worth reading
 * _Get programming with Javascript_: John R. Larsen (Manning Publications, 2016)
+* You Don't Know JS (book series): Kyle Simpson, 2013-2018. Online version can be read it [here](https://github.com/getify/You-Dont-Know-JS)
 * _Eloquent Javascript_: Marijn Haverbeke (December 2018, 472 pp. ISBN-13: 9781593279509). Online version can be read it [here](https://eloquentjavascript.net/)
 
 ## Miscellaneous
