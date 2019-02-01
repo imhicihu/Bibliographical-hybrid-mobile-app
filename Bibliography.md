@@ -45,6 +45,7 @@
 * [The Mozilla Developer Network: Javascript resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * _Javascript for kids_, Nick Morgan (No Starch Press, 2014) --> Read on, elementary, but it was worth reading
 * _Get programming with Javascript_: John R. Larsen (Manning Publications, 2016)
+* _Eloquent Javascript_: Marijn Haverbeke (December 2018, 472 pp. ISBN-13: 9781593279509). Online version can be read it [here](https://eloquentjavascript.net/)
 
 ## Miscellaneous
 * ~~_[Make your apps serverless](https://www.creativebloq.com/features/how-to-make-your-apps-serverless)_ Net, may 2017, p.96-97~~ ---> read, but out of our possibilities. We need a `https` server --> _sine qua non_ condition
