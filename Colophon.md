@@ -74,6 +74,7 @@
         - [Node.js](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
     - [Google Books API](https://developers.google.com/books/)
+    - [SVGs to React components](https://svgr.now.sh/)
     - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - [Sentry](https://sentry.io/): error tracking
