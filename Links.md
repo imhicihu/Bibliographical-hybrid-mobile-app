@@ -3,6 +3,7 @@
 
 ### Accesibility
 * [Death to icon fonts](https://speakerdeck.com/ninjanails/death-to-icon-fonts?slide=18)
+* [How to Make Your Website Accessible to People Who Use a Screen Magnifier ](https://dev.to/_bigblind/how-to-make-your-website-accessible-to-people-who-use-a-screen-magnifier)
 
 ### Data tables
 * [How-to: Create **accessible** data tables](https://a11yproject.com/posts/accessible-data-tables/%20https://a11yproject.com/posts/accessible-data-tables/)
