@@ -45,6 +45,7 @@
         - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native): Visual Studio plugin for the react development environment
         - [React Navigation](https://reactnavigation.org/)
         - React Native Vector icons
+        - [React perftool](https://github.com/vaheqelyan/react-perftool): inspect the performance of React Js components
         - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
         - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
     - _CHECK_ THIS [issue](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/issues/16/software)
