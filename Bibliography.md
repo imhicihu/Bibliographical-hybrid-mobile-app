@@ -27,7 +27,7 @@
 ![IMG_3943.JPG](https://bitbucket.org/repo/EBnakg/images/1338479007-IMG_3943.JPG)
 
 
-## React Native / React JS
+## React Native / React JS / Redux
 * _Learning React_: Alex Banks & Eve Porcello  (O'Reilly Media, 2017)
 * _Mastering React Native_: Eric Masiello & Jacob Friedmann (Packt Publishing, 2017)
 * _ReactJS Blueprints_: Sven Anders Robbestad (Packt Publishing, 2016)
@@ -37,7 +37,7 @@
 * _Getting Started with React Native_: Ethan Holmes & Tom Bray (Packt Publishing Limited, 2015)
 * _React Design Patterns and Best Practices_: Michele Bertoli (Packt Publishing, 2017)
 * _React: Cross-Platform Application Development with React Native: Build 4 real-world apps with React Native_: Emilio Rodriguez Martinez (Packt Publishing, 2018-03-13, 182 pages)
-	
+* [Dissecting React Native](https://developer.ibm.com/articles/dissecting-react-native/)
 	
 ## Javascript
 * _Javascript: The Good parts_: Douglas Crockford (O`Reilly Media, 2008)
