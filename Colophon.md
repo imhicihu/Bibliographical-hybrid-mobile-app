@@ -48,6 +48,7 @@
         - [React perftool](https://github.com/vaheqelyan/react-perftool): inspect the performance of React Js components
         - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
         - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
+        - [React Native community add-ons](https://github.com/react-native-community)
     - _CHECK_ THIS [issue](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/issues/16/software)
 
 * Online tools
@@ -58,7 +59,7 @@
         - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
         - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn't adhere to certain style guidelines
     - Database:
-        - Firebase](https://firebase.google.com): database based on cloud. Management of users based on email accounts.
+        - [Firebase](https://firebase.google.com): database based on cloud. Management of users based on email accounts.
     - Bug reporting:
         - [Instabug](https://instabug.com/): bug reporting and feedback from the beta testers
         - [Bugsnag](https://github.com/bugsnag/bugsnag-react-native)
