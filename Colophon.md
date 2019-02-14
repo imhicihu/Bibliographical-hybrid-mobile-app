@@ -57,6 +57,8 @@
         - [DevicePonsive](http://deviceponsive.com/)
         - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
         - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn't adhere to certain style guidelines
+    - Database:
+        - Firebase](https://firebase.google.com): database based on cloud. Management of users based on email accounts.
     - Bug reporting:
         - [Instabug](https://instabug.com/): bug reporting and feedback from the beta testers
         - [Bugsnag](https://github.com/bugsnag/bugsnag-react-native)
