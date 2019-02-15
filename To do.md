@@ -1,9 +1,10 @@
-* [1Password for Open Source Projects](https://github.com/1Password/1password-teams-open-source): **check for apply**
+* ~~[1Password for Open Source Projects](https://github.com/1Password/1password-teams-open-source): **check for apply**~~
 * [ReactXP](https://github.com/Microsoft/reactxp)
 * [React Native for Web](https://github.com/necolas/react-native-web)
 * [Reactotron](https://github.com/infinitered/reactotron/): app inspector (**take in count!*)
 * ~~agregar los dos libros de Javascript que leí~~
 * https://www.browserstack.com/open-source
+* create a website (Google Play requires/demands one)
 * left-to-right & right-to-left writing support
 * change app runtime language (support): English & Spanish ¿French?
 * create an account in https://expo.io/
