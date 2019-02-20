@@ -1,0 +1,1 @@
+* Unicode character set for all the naming of files (compatibilities issues between operating systems and between softwares)
