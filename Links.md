@@ -8,6 +8,7 @@
 ### Data tables
 * [How-to: Create **accessible** data tables](https://a11yproject.com/posts/accessible-data-tables/%20https://a11yproject.com/posts/accessible-data-tables/)
 * https://react.rocks/tag/DataTable   (disparate examples of datatables)
+* [react-native-data-table](https://github.com/sussol/react-native-data-table)
 * [React-bootstrap-table v2](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * https://github.com/bvaughn/react-virtualized/blob/master/docs/Table.md   (list of attributes to configure)
 * https://www.grapecity.com/en/blogs/wijmo-flexgrid-best-react-data-grid#flexGrid-and-react-a-match-made-in-web-development-heaven  (check the steps in the process of formatting & generating styling)
