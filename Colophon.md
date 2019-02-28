@@ -57,6 +57,7 @@
         - [ResponsiveDesignChecker](phttp://responsivedesignchecker.com/)
         - [BrowserStack](https://www.browserstack.com/)
         - [DevicePonsive](http://deviceponsive.com/)
+        - [Appetize](https://appetize.io/): Run native mobile apps in your browser (_cons_: free tier > 100 minutes limit / month
         - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
         - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn't adhere to certain style guidelines
     - Database:
