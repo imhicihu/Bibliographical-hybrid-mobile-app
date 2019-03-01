@@ -92,6 +92,7 @@
      - [React Native Official documentation](https://facebook.github.io/react-native/docs/getting-started.html)
      - [Developer certificate](https://developercertificate.org/)
      - [issuehub.io](http://issuehub.io/): Github issues searcher
+     - [Devdocs.io](https://devdocs.io/): documentation about multiple APIs
      - Windows (and something in between, _ie._ Android environment) [accessibility guidelines](https://github.com/Microsoft/WindowsTemplateStudio/blob/dev/docs/accessibility.md)
      - [Localization checklist](https://www.transifex.com/resources/website-translation-checklist/)
      - [User Interface Guidelines](https://developer.android.com/guide/practices/ui_guidelines/)
