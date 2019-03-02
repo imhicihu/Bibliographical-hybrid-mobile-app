@@ -6,6 +6,7 @@
 * https://www.browserstack.com/open-source
 * create a website (Google Play requires/demands one)
 * left-to-right & right-to-left writing support
+* [Lektor](https://www.getlektor.com/docs/) CMS to generate the support website (take in count the plugins section)
 * change app runtime language (support): English & Spanish ¿French?
 * create an account in https://expo.io/
 * http://saucelabs.com/
