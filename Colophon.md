@@ -48,6 +48,7 @@
         - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native): Visual Studio plugin for the react development environment
         - [React Navigation](https://reactnavigation.org/)
         - React Native Vector icons
+        - [SVGs to React components](https://svgr.now.sh/)
         - [React perftool](https://github.com/vaheqelyan/react-perftool): inspect the performance of React Js components
         - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
         - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
@@ -68,6 +69,7 @@
         - [Instabug](https://instabug.com/): bug reporting and feedback from the beta testers
         - [Bugsnag](https://github.com/bugsnag/bugsnag-react-native)
         - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+        - [Sentry](https://sentry.io/): error tracking
     - Dependencies:
         - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
         - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
@@ -81,14 +83,15 @@
         - [Grunt.js](https://gruntjs.com/): automatization of javascript workload
         - [Node.js](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
-    - [Google Books API](https://developers.google.com/books/)
-    - [SVGs to React components](https://svgr.now.sh/)
+    - Icons:
+        - [Iconvericons](https://iconverticons.com/): convert icons to meet system criteria according every major operating system
+        - [Fontello](http://fontello.com/): icon font generator
+    - Localization:
+        - [Transifex](https://www.transifex.com/): localization of internal text strings
     - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
-    - [Sentry](https://sentry.io/): error tracking
-    - [Fontello](http://fontello.com/): icon font generator
-    - [Transifex](https://www.transifex.com/): localization of internal text strings
     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
+    - [Google Books API](https://developers.google.com/books/): take in count the limits/thresold on the queries (take in count the quota _allowed_!)
 
 * Documentation
      - [React Native Official documentation](https://facebook.github.io/react-native/docs/getting-started.html)
