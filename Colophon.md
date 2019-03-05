@@ -21,6 +21,7 @@
         - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator
         - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
         - [CSVLint](http://csvlint.io/): CSV linter for databases
+        - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
     - [Virtual Devices](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/issues/5/workflow-software-android-emulators):
         - [Genymotion](https://www.genymotion.com/)
         - ARChon! Android Emulator
