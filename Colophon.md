@@ -72,17 +72,17 @@
         - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
         - [Sentry](https://sentry.io/): error tracking
     - Dependencies:
-        - [FOSSA](https://fossa.io/) (Dependency tracking, license compliance and attribution notices)
+        - [FOSSA](https://fossa.io/): dependency tracking, license compliance and attribution notices
         - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
         - [Yarn](https://yarnpkg.com): dependency manager for node.js
     - Automatization on coding stage:
-        - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
-        - [Fast Lane](https://fastlane.tools/): (Automatization of deployments of apps)
+        - [Carbon](https://carbon.now.sh/): automatization on code screen sharing
+        - [Fast Lane](https://fastlane.tools/): Automatization of deployments of apps
     - Javascript:
-        - [Jest](https://jestjs.io/) (Javascript testing tool)
+        - [Jest](https://jestjs.io/): Javascript testing tool
         - [Javascript validator](https://validatejavascript.com/)
         - [Grunt.js](https://gruntjs.com/): automatization of javascript workload
-        - [Node.js](https://nodejs.org/): (JavaScript runtime built on Chrome's V8 JavaScript engine)
+        - [Node.js](https://nodejs.org/): JavaScript runtime _built on_ Chrome's V8 JavaScript engine
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
     - Icons:
         - [Iconvericons](https://iconverticons.com/): convert icons to meet system criteria according every major operating system
@@ -92,7 +92,7 @@
     - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
-    - [Google Books API](https://developers.google.com/books/): take in count the limits/thresold on the queries (take in count the quota _allowed_!)
+    - [Google Books API](https://developers.google.com/books/): ~~take in count the limits/thresold on the queries~~ take in count the quota _allowed_!
 
 * Documentation
      - [React Native Official documentation](https://facebook.github.io/react-native/docs/getting-started.html)
