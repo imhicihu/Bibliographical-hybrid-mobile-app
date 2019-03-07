@@ -4,6 +4,7 @@
 * [React-bootstrap-table v2](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * [Storybook](https://github.com/storybooks/storybook)   // Check this examples about the possibilities offered: https://storybook.js.org/examples/
 * https://medium.com/the-react-native-log
+* ~~https://github.com/facebookarchive/fixed-data-table~~ => deprecated
 * [Organizing a React Native Project](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
 * https://hackernoon.com/codesandbox-an-online-react-editor-b8945ce095d2
 * [React Navigation](https://github.com/react-navigation/)
