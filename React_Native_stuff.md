@@ -18,6 +18,7 @@
 ### Internal searcher
 * [JS-Search](https://github.com/bvaughn/js-search)  searcher
 * [js-worker](https://github.com/bvaughn/js-worker-search) searcher
+* https://bvaughn.github.io/redux-search/
 
 ### Tables
 * https://github.com/reactabular/reactabular
