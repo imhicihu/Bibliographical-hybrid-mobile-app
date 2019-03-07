@@ -25,8 +25,10 @@
     - [Virtual Devices](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/issues/5/workflow-software-android-emulators):
         - [Genymotion](https://www.genymotion.com/)
         - ARChon! Android Emulator
+    - Terminal:
+        - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
+        - [asciinema](https://asciinema.org/): Record and share your terminal sessions
     - [Homebrew](http://brew.sh/): package manager for MacOSX
-    - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
     - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - IDE:
         - [Deco IDE](https://www.decoide.org/)
