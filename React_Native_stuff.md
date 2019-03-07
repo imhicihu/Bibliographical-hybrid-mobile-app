@@ -2,6 +2,8 @@
 
 * [React Native Getting Started](http://facebook.github.io/react-native/docs/getting-started.html)
 * [React-bootstrap-table v2](https://github.com/react-bootstrap-table/react-bootstrap-table2)
+* https://github.com/bvaughn/js-search  searcher
+* https://github.com/bvaughn/js-worker-search searcher
 * [Storybook](https://github.com/storybooks/storybook)   // Check this examples about the possibilities offered: https://storybook.js.org/examples/
 * https://medium.com/the-react-native-log
 * ~~https://github.com/facebookarchive/fixed-data-table~~ => deprecated
