@@ -59,6 +59,8 @@
     - _CHECK_ THIS [issue](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/issues/16/software)
 
 * Online tools
+    - Coding:
+        - [React Live](https://react-live.kitten.sh/): a kind of playground to _experiment_ in code
     - Testing and validators:
         - [ResponsiveDesignChecker](phttp://responsivedesignchecker.com/)
         - [BrowserStack](https://www.browserstack.com/)
