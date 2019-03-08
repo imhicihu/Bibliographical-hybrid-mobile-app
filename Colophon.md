@@ -91,6 +91,8 @@
         - [Fontello](http://fontello.com/): icon font generator
     - Localization:
         - [Transifex](https://www.transifex.com/): localization of internal text strings
+    - Deployment of code:
+        - [Zeit](https://zeit.co/)
     - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
