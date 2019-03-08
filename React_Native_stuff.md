@@ -23,6 +23,7 @@
 ### Tables
 * [Reactabular](https://github.com/reactabular/reactabular)
 * [React-Window](https://github.com/bvaughn/react-window): efficient rendering of _long_ lists & tabular data
+* [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader)
 * ~~https://github.com/facebookarchive/fixed-data-table~~ => deprecated
 
 ### Navigation
