@@ -3,6 +3,7 @@
 * [React Native Getting Started](http://facebook.github.io/react-native/docs/getting-started.html)
 * [Storybook](https://github.com/storybooks/storybook)   // Check this examples about the possibilities offered: https://storybook.js.org/examples/
 * https://medium.com/the-react-native-log
+* [React Select](http://jedwatson.github.io/react-select/): native selection across data-tables 
 * [Word highlighter](https://github.com/bvaughn/react-highlight-words)
 * [Organizing a React Native Project](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
 * https://hackernoon.com/codesandbox-an-online-react-editor-b8945ce095d2
