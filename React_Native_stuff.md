@@ -1,9 +1,9 @@
 ## React Native stuff
 
 * [React Native Getting Started](http://facebook.github.io/react-native/docs/getting-started.html)
-* [React-bootstrap-table v2](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * [Storybook](https://github.com/storybooks/storybook)   // Check this examples about the possibilities offered: https://storybook.js.org/examples/
 * https://medium.com/the-react-native-log
+* [Word highlighter](https://github.com/bvaughn/react-highlight-words)
 * [Organizing a React Native Project](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
 * https://hackernoon.com/codesandbox-an-online-react-editor-b8945ce095d2
 * [Deploy a React application on Kubernetes](https://github.com/IBM/deploy-react-kubernetes)
@@ -19,11 +19,13 @@
 * [JS-Search](https://github.com/bvaughn/js-search)  searcher
 * [js-worker](https://github.com/bvaughn/js-worker-search) searcher
 * [Redux-search](https://bvaughn.github.io/redux-search/)
+* [react-select](https://github.com/JedWatson/react-select/)
 
 ### Tables
 * [Reactabular](https://github.com/reactabular/reactabular)
 * [React-Window](https://github.com/bvaughn/react-window): efficient rendering of _long_ lists & tabular data
 * [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader)
+* [React-bootstrap-table v2](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * ~~https://github.com/facebookarchive/fixed-data-table~~ => deprecated
 
 ### Navigation
