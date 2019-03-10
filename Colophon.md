@@ -75,7 +75,7 @@
         - [Bugsnag](https://github.com/bugsnag/bugsnag-react-native)
         - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
         - [Sentry](https://sentry.io/): error tracking
-    - Dependencies:
+    - Dependencies (manager):
         - [FOSSA](https://fossa.io/): dependency tracking, license compliance and attribution notices
         - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
         - [Yarn](https://yarnpkg.com): dependency manager for node.js
@@ -92,6 +92,7 @@
         - [Iconvericons](https://iconverticons.com/): convert icons to meet system criteria according every major operating system
         - [Fontello](http://fontello.com/): icon font generator
     - Localization:
+        - [Polyglot](https://github.com/airbnb/polyglot.js): Javascript library (helper)
         - [Transifex](https://www.transifex.com/): localization of internal text strings
     - Deployment of code:
         - [Zeit](https://zeit.co/)
