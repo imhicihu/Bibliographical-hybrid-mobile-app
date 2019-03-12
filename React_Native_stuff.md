@@ -28,6 +28,9 @@
 ### Tables
 * [Reactabular](https://github.com/reactabular/reactabular)
 * [PrimeReact](https://github.com/primefaces/primereact)
+* [material-table](https://github.com/mbrn/material-table)
+* [Functional Data Grids](https://github.com/energydrink9/functional-data-grid)
+* [react-table-kit](https://github.com/aichbauer/react-table-kit)
 * [Griddle](http://griddlegriddle.github.io/Griddle/)
 * [Fixed Data Table 2 for React](http://schrodinger.github.io/fixed-data-table-2/):data tables management and handling
 * [React-Window](https://github.com/bvaughn/react-window): efficient rendering of _long_ lists & tabular data
