@@ -24,6 +24,7 @@
 
 ### Tables
 * [Reactabular](https://github.com/reactabular/reactabular)
+* [Griddle](http://griddlegriddle.github.io/Griddle/)
 * [Fixed Data Table 2 for React](http://schrodinger.github.io/fixed-data-table-2/):data tables management and handling
 * [React-Window](https://github.com/bvaughn/react-window): efficient rendering of _long_ lists & tabular data
 * [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader)
