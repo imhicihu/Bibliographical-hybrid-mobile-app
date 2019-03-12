@@ -16,6 +16,9 @@
 ### Accesibility
 ![IMG_4303.PNG](https://bitbucket.org/repo/5qRy4oR/images/579521404-IMG_4303.PNG)
 
+### Text handling
+* [normalizr](https://github.com/paularmstrong/normalizr): take in count the API about handling Capital words in-between paragraphs _et alia_
+
 ### Internal searcher
 * [JS-Search](https://github.com/bvaughn/js-search)  searcher
 * [js-worker](https://github.com/bvaughn/js-worker-search) searcher
