@@ -7,15 +7,16 @@
 
 ### Data tables
 * [How-to: Create **accessible** data tables](https://a11yproject.com/posts/accessible-data-tables/%20https://a11yproject.com/posts/accessible-data-tables/)
-* https://react.rocks/tag/DataTable   (disparate examples of datatables)
+* [FixedDataTable React.js](https://www.ludofischer.com/blog/fixed-data-table-reactjs/): _leído_
+* [Datatable](https://react.rocks/tag/DataTable)   (disparate examples of datatables)
 * [react-native-data-table](https://github.com/sussol/react-native-data-table)
 * [React-bootstrap-table v2](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * https://github.com/bvaughn/react-virtualized/blob/master/docs/Table.md   (list of attributes to configure)
 * https://www.grapecity.com/en/blogs/wijmo-flexgrid-best-react-data-grid#flexGrid-and-react-a-match-made-in-web-development-heaven  (check the steps in the process of formatting & generating styling)
-* http://reactscript.com/ (components to see, most of them with demos)
+* [reactscript](http://reactscript.com/) (components to see, most of them with demos)
 * https://medium.com/myntra-engineering/the-simplest-way-to-create-a-data-grid-in-react-ccdd4368ee7a   ---) check [demo](http://rishabhbits038.github.io/react-tabelify/)
 * https://www.reddit.com/r/reactjs/comments/5jlhkg/best_datagrid_components_for_reactjs/
-* https://react.rocks/tag/DataTable  (various examples)
+* [DataTable](https://react.rocks/tag/DataTable):  (various examples)
 * https://www.youtube.com/watch?v=OlVkYnVXPl0
 * https://github.com/Microsoft/react-native-windows   (developing for Windows 7 or later)
 * https://react-bootstrap-table.github.io/react-bootstrap-table2/   (check the [Storybook](https://storybook.js.org). It can be a sort of demo - tutorial of how-to browse the database)
