@@ -28,7 +28,9 @@
 ### Tables
 * [Reactabular](https://github.com/reactabular/reactabular)
 * [PrimeReact](https://github.com/primefaces/primereact)
+* [react-bootstrap-table2](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * [material-table](https://github.com/mbrn/material-table)
+* [react-table](https://github.com/tannerlinsley/react-table): a bit unresponsive (with a little delay on the _insta_query search
 * [Functional Data Grids](https://github.com/energydrink9/functional-data-grid)
 * [react-table-kit](https://github.com/aichbauer/react-table-kit)
 * [Griddle](http://griddlegriddle.github.io/Griddle/)
