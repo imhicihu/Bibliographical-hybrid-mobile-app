@@ -41,6 +41,7 @@
 * [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader)
 * [React-bootstrap-table v2](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * ~~https://github.com/facebookarchive/fixed-data-table~~ => deprecated
+* ~~[Spreadsheet Component for React](https://github.com/felixrieseberg/React-Spreadsheet-Component)~~ => deprecated
 
 ### Navigation
 * [React Navigation](https://github.com/react-navigation/)
