@@ -26,7 +26,9 @@
 * [react-select](https://github.com/JedWatson/react-select/)
 
 ### Tables
+* query to do to update links => [query](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/src/1210ded39010a23fa5ddb299e57a1ba29d0c3704/queries%20to%20do%20(or%20doing).md?at=master&fileviewer=file-view-default)
 * [Reactabular](https://github.com/reactabular/reactabular)
+* [React Data Grid](http://adazzle.github.io/react-data-grid/)
 * [PrimeReact](https://github.com/primefaces/primereact)
 * [react-bootstrap-table2](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * [material-table](https://github.com/mbrn/material-table)
