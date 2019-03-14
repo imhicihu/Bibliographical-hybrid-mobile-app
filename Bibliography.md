@@ -38,6 +38,9 @@
 * _React Design Patterns and Best Practices_: Michele Bertoli (Packt Publishing, 2017)
 * _React: Cross-Platform Application Development with React Native: Build 4 real-world apps with React Native_: Emilio Rodriguez Martinez (Packt Publishing, 2018-03-13, 182 pages)
 * [Dissecting React Native](https://developer.ibm.com/articles/dissecting-react-native/)
+
+## Database
+* _Android database best practices_: Adam Stroud (Addison-Wesley Professional, 2016, 288 pp.)
 	
 ## Javascript
 * _Javascript: The Good parts_: Douglas Crockford (O`Reilly Media, 2008)
