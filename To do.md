@@ -16,8 +16,8 @@
 * verify what license apply to this "kind of project": MIT, etc...
 * Google Play demands a site to offer assistance, even if its a free app. So, we need to generate a website with FAQ, tutorials, etc.
 * Privacy stuff: check this https://app-privacy-policy-generator.firebaseapp.com/   // https://github.com/nisrulz/app-privacy-policy-generator
-* verify with Patricia about App Store policy under Conicet's umbrella. Particularly about copyright and legal directives & statements
+* ~~verify with Patricia about App Store policy under Conicet's umbrella. Particularly about copyright and legal directives & statements~~
 * [Heroku](https://www.heroku.com/) account creation
-* Check this: https://semantic-ui.com/collections/table.html
-* check this integration: Bootstrap --> React https://react-bootstrap.github.io/
+* ~~Check this: https://semantic-ui.com/collections/table.html~~   update to https://react.semantic-ui.com/
+* ~~check this integration: Bootstrap --> React https://react-bootstrap.github.io/~~
 * edit blank space in the beginning of some paragraph in `keyword.md`
