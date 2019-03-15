@@ -46,6 +46,7 @@
     - React _stuff_:
         - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
         - [React Bootstrap](https://react-bootstrap.github.io/)
+        - [React Semantic UI](https://react.semantic-ui.com/)
         - [React Hot Loader](https://github.com/gaearon/react-hot-loader) --> motif: Tweak React components in real time
         - [Reactstrap](https://reactstrap.github.io/)
         - [React DOM testing utilities](https://github.com/kentcdodds/react-testing-library): 
