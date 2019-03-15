@@ -21,10 +21,11 @@
         - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator
         - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
         - [CSVLint](http://csvlint.io/): CSV linter for databases
+        - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
         - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
     - [Virtual Devices](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/issues/5/workflow-software-android-emulators):
         - [Genymotion](https://www.genymotion.com/)
-        - ARChon! Android Emulator
+        - [ARChon! Android Emulator](https://archon-runtime.github.io/)
     - Terminal:
         - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
         - [asciinema](https://asciinema.org/): Record and share your terminal sessions
@@ -111,6 +112,7 @@
      - [React Native Official documentation](https://facebook.github.io/react-native/docs/getting-started.html)
      - [Mozilla Developers Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
      - [Developer certificate](https://developercertificate.org/)
+     - [Devdocs.io](https://devdocs.io/): documentation about multiple APIs
      - [issuehub.io](http://issuehub.io/): Github issues searcher
      - Windows (and something in between, _ie._ Android environment) [accessibility guidelines](https://github.com/Microsoft/WindowsTemplateStudio/blob/dev/docs/accessibility.md)
      - [Localization checklist](https://www.transifex.com/resources/website-translation-checklist/)
