@@ -8,3 +8,6 @@
 * Create the app in the [Google Play Console](http://play.google.com/)
 * Upload
 * Wait the approval
+
+
+pd: check this out => https://developer.android.com/distribute/best-practices/launch/launch-checklist
