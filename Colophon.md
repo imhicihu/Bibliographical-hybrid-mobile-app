@@ -32,6 +32,7 @@
     - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - IDE:
         - [Deco IDE](https://www.decoide.org/)
+        - [Plunker](https://plnkr.co/edit/tpl:wxQVHKHmyJVjcBJQsk6q): online React development. For coding and (internal) tests
         - [Atom](https://atom.io) (code editor)
             + Atom packages
                 - React
@@ -44,8 +45,8 @@
                 - [Nuclide](https://nuclide.io/)
     - React _stuff_:
         - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+        - [React Bootstrap](https://react-bootstrap.github.io/)
         - [React Hot Loader](https://github.com/gaearon/react-hot-loader) --> motif: Tweak React components in real time
-        - [Plunker](https://plnkr.co/edit/tpl:wxQVHKHmyJVjcBJQsk6q): online React development. For coding and (internal) tests
         - [React DOM testing utilities](https://github.com/kentcdodds/react-testing-library): 
         - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?src=collection): runs over Mozilla Developers tools
         - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native): Visual Studio plugin for the react development environment
@@ -61,8 +62,10 @@
 * Online tools
     - Coding:
         - [React Live](https://react-live.kitten.sh/): a kind of playground to _experiment_ in code
+        - [Plunker](https://plnkr.co/edit/tpl:wxQVHKHmyJVjcBJQsk6q): online React development. For coding and (internal) tests
+
     - Testing and validators:
-        - [ResponsiveDesignChecker](phttp://responsivedesignchecker.com/)
+        - [Responsive Design Checker](phttp://responsivedesignchecker.com/)
         - [BrowserStack](https://www.browserstack.com/)
         - [DevicePonsive](http://deviceponsive.com/)
         - [Appetize](https://appetize.io/): Run native mobile apps in your browser (_cons_: free tier > 100 minutes limit / month
@@ -91,6 +94,7 @@
     - Icons:
         - [Iconvericons](https://iconverticons.com/): convert icons to meet system criteria according every major operating system
         - [Fontello](http://fontello.com/): icon font generator
+        - [Noun Project](https://thenounproject.com/)
     - Localization:
         - [Polyglot](https://github.com/airbnb/polyglot.js): Javascript library (helper)
         - [Transifex](https://www.transifex.com/): localization of internal text strings
