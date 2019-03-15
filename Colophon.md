@@ -54,6 +54,7 @@
         - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?src=collection): runs over Mozilla Developers tools
         - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native): Visual Studio plugin for the react development environment
         - [React Navigation](https://reactnavigation.org/)
+        - [ReactXP](https://github.com/Microsoft/reactxp)
         - React Native Vector icons
         - [SVGs to React components](https://svgr.now.sh/)
         - [React perftool](https://github.com/vaheqelyan/react-perftool): inspect the performance of React Js components
