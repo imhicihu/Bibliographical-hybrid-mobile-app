@@ -41,6 +41,9 @@
 
 ## Database
 * _Android database best practices_: Adam Stroud (Addison-Wesley Professional, 2016, 288 pp.)
+
+## UX
+* _UX Fundamentals for Non-UX Professionals: User Experience Principles for Managers, Writers, Designers, and Developers_: Edward Stull (Apress, 2018, 349 pp.)
 	
 ## Javascript
 * _Javascript: The Good parts_: Douglas Crockford (O`Reilly Media, 2008)
