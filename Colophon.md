@@ -16,6 +16,8 @@
     - Database handling:
         - [OpenRefine](http://openrefine.org/) (open-source tool for cleaning messy data)
         - [Tabula](https://github.com/tabulapdf/tabula): (Data tables management)
+    - Text Converter
+        - [Pandoc](https://github.com/jgm/pandoc/releases/tag/2.2.1) (Universal multiformat converter)
     - Data validators:
         - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator): CSV self-validator
         - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator
@@ -69,7 +71,6 @@
     - Coding:
         - [React Live](https://react-live.kitten.sh/): a kind of playground to _experiment_ in code
         - [Plunker](https://plnkr.co/edit/tpl:wxQVHKHmyJVjcBJQsk6q): online React development. For coding and (internal) tests
-
     - Testing and validators:
         - [Responsive Design Checker](phttp://responsivedesignchecker.com/)
         - [BrowserStack](https://www.browserstack.com/)
@@ -80,6 +81,7 @@
         - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn't adhere to certain style guidelines
     - Database:
         - [Firebase](https://firebase.google.com): database based on cloud. Management of users based on email accounts.
+        - [CloudyExcel](http://www.cloudyexcel.com/compare-excel/): merge, duplicate, validate records
     - Bug reporting:
         - [Instabug](https://instabug.com/): bug reporting and feedback from the beta testers
         - [Bugsnag](https://github.com/bugsnag/bugsnag-react-native)
@@ -94,23 +96,26 @@
         - [Fast Lane](https://fastlane.tools/): Automatization of deployments of apps
     - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool
-        - [Javascript validator](https://validatejavascript.com/)
+        - [Javascript validator](https://validatejavascript.com/):
         - [Grunt.js](https://gruntjs.com/): automatization of javascript workload
         - [Node.js](https://nodejs.org/): JavaScript runtime _built on_ Chrome's V8 JavaScript engine
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
     - Icons:
         - [Iconvericons](https://iconverticons.com/): convert icons to meet system criteria according every major operating system
         - [Fontello](http://fontello.com/): icon font generator
-        - [Noun Project](https://thenounproject.com/)
+        - [Noun Project](https://thenounproject.com/):
     - Localization:
         - [Polyglot](https://github.com/airbnb/polyglot.js): Javascript library (helper)
         - [Transifex](https://www.transifex.com/): localization of internal text strings
     - Deployment of code:
         - [Zeit](https://zeit.co/)
-    - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
-    - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
-    - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
-    - [Google Books API](https://developers.google.com/books/): ~~take in count the limits/thresold on the queries~~ take in count the quota _allowed_!
+    - Digital transfer
+        - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
+    - Miscellaneous:
+        - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
+        - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
+        - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
+        - [Google Books API](https://developers.google.com/books/): ~~take in count the limits/thresold on the queries~~ take in count the quota _allowed_!
 
 * Documentation
      - [React Native Official documentation](https://facebook.github.io/react-native/docs/getting-started.html)
