@@ -91,6 +91,7 @@
         - [FOSSA](https://fossa.io/): dependency tracking, license compliance and attribution notices
         - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
         - [Yarn](https://yarnpkg.com): dependency manager for node.js
+        - [NPM](https://www.npmjs.com/): package manager for JavaScript
     - Automatization on coding stage:
         - [Carbon](https://carbon.now.sh/): automatization on code screen sharing
         - [Fast Lane](https://fastlane.tools/): Automatization of deployments of apps
