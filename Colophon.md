@@ -30,6 +30,7 @@
         - [ARChon! Android Emulator](https://archon-runtime.github.io/)
     - Terminal:
         - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
+        - [Hyper](https://hyper.is/): Terminal console for the MacOSX
         - [asciinema](https://asciinema.org/): Record and share your terminal sessions
     - [Homebrew](http://brew.sh/): package manager for MacOSX
     - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
