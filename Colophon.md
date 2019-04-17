@@ -16,7 +16,9 @@
     - Database handling:
         - [OpenRefine](http://openrefine.org/) (open-source tool for cleaning messy data)
         - [Tabula](https://github.com/tabulapdf/tabula): (Data tables management)
-    - Text Converter
+    - Styling:
+        - [Material-UI](https://material-ui.com/): 
+    - Text Converter:
         - [Pandoc](https://github.com/jgm/pandoc/releases/tag/2.2.1) (Universal multiformat converter)
     - Data validators:
         - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator): CSV self-validator
@@ -32,8 +34,10 @@
         - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
         - [asciinema](https://asciinema.org/): Record and share your terminal sessions
-    - [Homebrew](http://brew.sh/): package manager for MacOSX
-    - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
+    - Text handling:
+        - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
+    - Packages management
+        - [Homebrew](http://brew.sh/): package manager for MacOSX
     - IDE:
         - [Deco IDE](https://www.decoide.org/)
         - [Reactide](https://github.com/reactide/reactide)
