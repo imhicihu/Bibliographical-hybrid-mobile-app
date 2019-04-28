@@ -42,6 +42,12 @@
         - [Deco IDE](https://www.decoide.org/)
         - [Reactide](https://github.com/reactide/reactide)
         - [Plunker](https://plnkr.co/edit/tpl:wxQVHKHmyJVjcBJQsk6q): online React development. For coding and (internal) tests
+        - [Visual Studio Code](https://code.visualstudio.com)
+            + Extensions
+                - Live Server
+                - Bracket Pair Colorizer
+                - Highlight Matching Tag
+                - Preview on WebServer
         - [Atom](https://atom.io) (code editor)
             + Atom packages
                 - React
