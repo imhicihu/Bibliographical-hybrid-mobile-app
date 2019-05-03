@@ -31,6 +31,8 @@
           * [ARChon](http://archon-runtime.github.io/)
 * Dependencies
      - [NPM](https://www.npmjs.com/)
+          + Packages:
+                    - [nvm](https://github.com/creationix/nvm)
      - [Bower](https://bower.io/)
      - [Node.js](https://nodejs.org/)
      - [Brew](https://brew.sh/)
