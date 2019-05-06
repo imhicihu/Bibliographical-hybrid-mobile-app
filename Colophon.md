@@ -30,6 +30,8 @@
     - [Virtual Devices](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/issues/5/workflow-software-android-emulators):
         - [Genymotion](https://www.genymotion.com/)
         - [ARChon! Android Emulator](https://archon-runtime.github.io/)
+    - Local server environment on MacOSX
+        - [httpster](https://github.com/SimbCo/httpster)
     - Terminal:
         - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
