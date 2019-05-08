@@ -35,6 +35,7 @@
                     - [nvm](https://github.com/creationix/nvm)
      - [Bower](https://bower.io/)
      - [Node.js](https://nodejs.org/)
+     - [Yarn](https://yarnpkg.com/)
      - [Brew](https://brew.sh/)
 * Database configuration
      - The bibliographic data is converted to _.CSV_ in UTF-8 format. ~~(There are some cyrillic issues, fixed up to now). This is a _must_ condition for proper rendering and meet the rigid deadlines of the iOS ecosystem.~~ Meanwhile, some bibliographic [repository](https://bitbucket.org/imhicihu/databases-repositories) projects related with this one, can be seen [here](https://bitbucket.org/imhicihu/database-on-mobile-device). That _in-house_ solution evolved, and that data leverage this repository, hence this app.  
