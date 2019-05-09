@@ -20,6 +20,8 @@
         - [Material-UI](https://material-ui.com/): 
     - Text Converter:
         - [Pandoc](https://github.com/jgm/pandoc/releases/tag/2.2.1) (Universal multiformat converter)
+    - GIT workflow
+        - [SourceTree](https://www.sourcetreeapp.com/): GIT client
     - Data validators:
         - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator): CSV self-validator
         - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator
