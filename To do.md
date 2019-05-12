@@ -5,6 +5,7 @@
 * [Lektor](https://www.getlektor.com/docs/) CMS to generate the support website (take in count the plugins section)
 * change app runtime language (support): English & Spanish ¿French?
 * create an account in https://expo.io/
+* https://github.com/styled-components/css-to-react-native   (take in count the component `css` and the variables that can handle as it most)
 * http://saucelabs.com/
 * [Heroku](https://www.heroku.com/) account creation
 * download the [app](https://itunes.apple.com/app/apple-store/id982107779?pt=17102800&amp;ct=www&amp;mt=8)
