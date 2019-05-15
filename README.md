@@ -9,7 +9,7 @@
 
 ### What is this repository for? ###
 
-* In a nutshell, a hybrid mobile-native app
+* _In a nutshell_, a hybrid mobile-native app
 * Version 1.1
 
 ### How do I get set up? ###
@@ -29,14 +29,16 @@
           * [Bluestacks](https://www.bluestacks.com/)
           * [Android Studio Simulator](https://developer.android.com/studio/index.html)
           * [ARChon](http://archon-runtime.github.io/)
-* Dependencies
+* Dependencies packager:
      - [NPM](https://www.npmjs.com/)
           + Packages:
-                    - [nvm](https://github.com/creationix/nvm)
+                    - [nvm](https://github.com/creationix/nvm): global and development stage manager (for the MacOSX)
+                    - Lint
+                    - cross-event
      - [Bower](https://bower.io/)
      - [Node.js](https://nodejs.org/)
      - [Yarn](https://yarnpkg.com/)
-     - [Brew](https://brew.sh/)
+     - [Homebrew](https://brew.sh/)
 * Database configuration
      - The bibliographic data is converted to _.CSV_ in UTF-8 format. ~~(There are some cyrillic issues, fixed up to now). This is a _must_ condition for proper rendering and meet the rigid deadlines of the iOS ecosystem.~~ Meanwhile, some bibliographic [repository](https://bitbucket.org/imhicihu/databases-repositories) projects related with this one, can be seen [here](https://bitbucket.org/imhicihu/database-on-mobile-device). That _in-house_ solution evolved, and that data leverage this repository, hence this app.  
 * How to run tests
