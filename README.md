@@ -32,9 +32,9 @@
 * Dependencies packager:
      - [NPM](https://www.npmjs.com/)
           + Packages:
-                    - [nvm](https://github.com/creationix/nvm): global and development stage manager (for the MacOSX)
-                    - Lint
-                    - cross-event
+               - [nvm](https://github.com/creationix/nvm): global and development stage manager (for the MacOSX)
+               - Lint
+               - cross-even
      - [Bower](https://bower.io/)
      - [Node.js](https://nodejs.org/)
      - [Yarn](https://yarnpkg.com/)
