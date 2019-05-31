@@ -29,7 +29,7 @@
           * [Bluestacks](https://www.bluestacks.com/)
           * [Android Studio Simulator](https://developer.android.com/studio/index.html)
           * [ARChon](http://archon-runtime.github.io/)
-* Dependencies packager:
+* Dependencies:
      - [NPM](https://www.npmjs.com/)
           + Packages:
                - [nvm](https://github.com/creationix/nvm): global and development stage manager (for the MacOSX)
@@ -39,6 +39,7 @@
      - [Node.js](https://nodejs.org/)
      - [Yarn](https://yarnpkg.com/)
      - [Homebrew](https://brew.sh/)
+     - [Gulp](https://gulpjs.com) (javascript task automatization)
 * Database configuration
      - The bibliographic data is converted to _.CSV_ in UTF-8 format. ~~(There are some cyrillic issues, fixed up to now). This is a _must_ condition for proper rendering and meet the rigid deadlines of the iOS ecosystem.~~ Meanwhile, some bibliographic [repository](https://bitbucket.org/imhicihu/databases-repositories) projects related with this one, can be seen [here](https://bitbucket.org/imhicihu/database-on-mobile-device). That _in-house_ solution evolved, and that data leverage this repository, hence this app.  
 * How to run tests
