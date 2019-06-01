@@ -40,6 +40,8 @@
         - [asciinema](https://asciinema.org/): Record and share your terminal sessions
     - Text handling:
         - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
+    - UX-UI
+        - [Alva](https://meetalva.io/)
     - Packages management
         - [Homebrew](http://brew.sh/): package manager for MacOSX
     - IDE:
