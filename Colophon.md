@@ -88,6 +88,7 @@
     - Coding:
         - [React Live](https://react-live.kitten.sh/): a kind of playground to _experiment_ in code
         - [Plunker](https://plnkr.co/edit/tpl:wxQVHKHmyJVjcBJQsk6q): online React development. For coding and (internal) tests
+        - [Repl.it](https://repl.it/): online interactive programming environment
     - Testing and validators:
         - [Responsive Design Checker](phttp://responsivedesignchecker.com/)
         - [BrowserStack](https://www.browserstack.com/)
