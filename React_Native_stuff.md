@@ -14,6 +14,7 @@
 * [Essential React Native Development Tools](https://instabug.com/blog/react-native-development/)
 
 ### Accesibility
+* [react-selffocus-element](https://github.com/anubhavsrivastava/react-selffocus-element):  This is essential for seeking attention on a particular element. This can also help in getting attention of screen readers like VoiceOver, JAWS, NVDA...
 ![IMG_4303.PNG](https://bitbucket.org/repo/5qRy4oR/images/579521404-IMG_4303.PNG)
 
 ### Text handling
