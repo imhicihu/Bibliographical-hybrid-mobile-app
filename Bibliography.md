@@ -44,6 +44,9 @@
 
 ## UX
 * _UX Fundamentals for Non-UX Professionals: User Experience Principles for Managers, Writers, Designers, and Developers_: Edward Stull (Apress, 2018, 349 pp.)
+
+## Data visualization
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 	
 ## Javascript
 * _Javascript: The Good parts_: Douglas Crockford (O`Reilly Media, 2008)
