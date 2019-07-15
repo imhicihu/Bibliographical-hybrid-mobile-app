@@ -130,6 +130,8 @@
     - Localization:
         - [Polyglot](https://github.com/airbnb/polyglot.js): Javascript library (helper)
         - [Transifex](https://www.transifex.com/): localization of internal text strings
+    - User suggestions
+        - [Imhicihu's Uservoice](https://imhicihu.uservoice.com/)
     - Deployment of code:
         - [Zeit](https://zeit.co/)
     - Digital transfer
