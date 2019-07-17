@@ -45,8 +45,8 @@
         - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - UX-UI
         - [Alva](https://meetalva.io/)
-    - Packages management
-        - [Homebrew](http://brew.sh/): package manager for MacOSX
+    - NPM management
+        - [Luna](https://github.com/rvpanoz/luna)
     - IDE:
         - [Deco IDE](https://www.decoide.org/)
         - [Reactide](https://github.com/reactide/reactide)
@@ -117,6 +117,8 @@
     - Automatization on coding stage:
         - [Carbon](https://carbon.now.sh/): automatization on code screen sharing
         - [Fast Lane](https://fastlane.tools/): Automatization of deployments of apps
+    - Packages management
+        - [Homebrew](http://brew.sh/): package manager
     - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool
         - [Javascript validator](https://validatejavascript.com/):
