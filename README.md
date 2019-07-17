@@ -49,6 +49,14 @@
      - Preliminarily, our instructions can be seen [here](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/src/master/Deployment%20(checklist).md)
      - Up to now, there is _no_ plan to release source code
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Bibliographical Searcher - Standalone app](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/)
+     - [Database on mobile device](https://bitbucket.org/imhicihu/database-on-mobile-device/)
+     - [Bibliographic data on iOS devices](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/)
+     - [IMHICIHU Digital repository](https://bitbucket.org/digital_repository/imhicihu-digital-repository/)
+
 ### Source ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/src)
