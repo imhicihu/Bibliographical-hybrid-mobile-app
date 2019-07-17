@@ -11,7 +11,8 @@
 ### Data tables
 * [How-to: Create **accessible** data tables](https://a11yproject.com/posts/accessible-data-tables/%20https://a11yproject.com/posts/accessible-data-tables/)
 * [FixedDataTable React.js](https://www.ludofischer.com/blog/fixed-data-table-reactjs/): _leído_ Warning: FixedDataTable renders a combination of nested <div>s. If you require <table> markup for accessibility, this library is not for you.
-* [Datatable](https://react.rocks/tag/DataTable)   (disparate examples of datatables)
+* [Datatable](https://react.rocks/tag/DataTable)   (disparate examples of data tables)
+* [Data tables with real data](https://uxdesign.cc/data-tables-with-real-data-5745b0434a85) usability and use case on data tables best practices
 * [react-native-data-table](https://github.com/sussol/react-native-data-table)
 * [React-bootstrap-table v2](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * https://github.com/bvaughn/react-virtualized/blob/master/docs/Table.md   (list of attributes to configure)
