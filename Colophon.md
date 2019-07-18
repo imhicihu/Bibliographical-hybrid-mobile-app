@@ -128,19 +128,20 @@
     - Icons:
         - [Iconvericons](https://iconverticons.com/): convert icons to meet system criteria according every major operating system
         - [Fontello](http://fontello.com/): icon font generator
-        - [Noun Project](https://thenounproject.com/):
+        - [Noun Project](https://thenounproject.com/)
     - Localization:
         - [Polyglot](https://github.com/airbnb/polyglot.js): Javascript library (helper)
         - [Transifex](https://www.transifex.com/): localization of internal text strings
     - User suggestions
         - [Imhicihu's Uservoice](https://imhicihu.uservoice.com/)
-    - Deployment of code:
+    - Documentation (online hosting)
+        - [GitBook](https://www.gitbook.com/)
+    - Deployment of code
         - [Zeit](https://zeit.co/)
-    - Digital transfer
+    - Digital transfer 
         - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - Miscellaneous:
         - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
-        - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
         - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
         - [Google Books API](https://developers.google.com/books/): ~~take in count the limits/thresold on the queries~~ take in count the quota _allowed_!
 
