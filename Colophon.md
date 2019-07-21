@@ -41,6 +41,7 @@
         - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
         - [asciinema](https://asciinema.org/): Record and share your terminal sessions
+        - [Terminalizer](https://github.com/faressoft/terminalizer)
     - Text handling:
         - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - UX-UI
