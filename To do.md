@@ -3,7 +3,7 @@
 * left-to-right & right-to-left writing support
 * edit blank space in the beginning of some paragraph in `keyword.md`
 * [Lektor](https://www.getlektor.com/docs/) CMS to generate the support website (take in count the plugins section)
-* change app runtime language (support): English & Spanish ¿French?
+* change app runtime language (support): English & Spanish â”French?
 * create an account in https://expo.io/
 * https://github.com/styled-components/css-to-react-native   (take in count the component `css` and the variables that can handle as it most)
 * http://saucelabs.com/
@@ -15,10 +15,11 @@
 * ~~verify with Patricia about App Store policy under Conicet's umbrella. Particularly about copyright and legal directives & statements~~
 * ~~Check this: https://semantic-ui.com/collections/table.html~~
 * ~~check this integration: Bootstrap --> React https://react-bootstrap.github.io/~~
-* ~~agregar los dos libros de Javascript que leí~~
+* ~~agregar los dos libros de Javascript que leÃ~~
 * ~~[1Password for Open Source Projects](https://github.com/1Password/1password-teams-open-source): **check for apply**~~
 * ~~create a website (Google Play requires/demands one)~~ => Check [this](https://bitbucket.org/imhicihu/one-page-website)~~
 * ~~Google Play demands a site to offer assistance, even if its a free app. So, we need to generate a website with FAQ, tutorials, etc.~~ => Check [this](https://bitbucket.org/imhicihu/one-page-website)~~
 * ~~[Reactotron](https://github.com/infinitered/reactotron/): app inspector (**take in count!*)~~
 * ~~[ReactXP](https://github.com/Microsoft/reactxp)~~
 * ~~[React Native for Web](https://github.com/necolas/react-native-web)~~
+* ~~Migrate Del.icio.us gathered links to Evernote~~
