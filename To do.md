@@ -15,6 +15,7 @@
 * ~~verify with Patricia about App Store policy under Conicet's umbrella. Particularly about copyright and legal directives & statements~~
 * ~~Check this: https://semantic-ui.com/collections/table.html~~
 * ~~check this integration: Bootstrap --> React https://react-bootstrap.github.io/~~
+* ~~Migrate Del.icio.us gathered links to Evernote~~
 * ~~agregar los dos libros de Javascript que leí~~
 * ~~[1Password for Open Source Projects](https://github.com/1Password/1password-teams-open-source): **check for apply**~~
 * ~~create a website (Google Play requires/demands one)~~ => Check [this](https://bitbucket.org/imhicihu/one-page-website)~~
