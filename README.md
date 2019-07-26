@@ -52,6 +52,7 @@
 ### Related repositories ###
 
 * Some repositories linked with this project:
+     - [ISKM2017 - Mobile App](https://bitbucket.org/imhicihu/iskm2017-mobile-app/src/)
      - [Bibliographical Searcher - Standalone app](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/)
      - [Database on mobile device](https://bitbucket.org/imhicihu/database-on-mobile-device/)
      - [Bibliographic data on iOS devices](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/)
