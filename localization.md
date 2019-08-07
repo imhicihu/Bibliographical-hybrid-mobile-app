@@ -1,0 +1,1 @@
+* [Localization checklist](https://www.transifex.com/resources/website-translation-checklist/)
