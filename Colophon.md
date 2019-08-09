@@ -44,6 +44,8 @@
         - [Terminalizer](https://github.com/faressoft/terminalizer)
     - Text handling:
         - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
+    - Device simulator
+        - [Appetize.io](https://appetize.io/)
     - UX-UI
         - [Alva](https://meetalva.io/)
     - Node.js
