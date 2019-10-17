@@ -43,6 +43,7 @@
         - [asciinema](https://asciinema.org/): Record and share your terminal sessions
         - [Terminalizer](https://github.com/faressoft/terminalizer)
     - Text handling:
+        - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
         - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - Device simulator
         - [Appetize.io](https://appetize.io/)
