@@ -17,7 +17,9 @@
         - [OpenRefine](http://openrefine.org/) (open-source tool for cleaning messy data)
         - [Tabula](https://github.com/tabulapdf/tabula): (Data tables management)
     - Styling:
-        - [Material-UI](https://material-ui.com/): 
+        - [Material-UI](https://material-ui.com/):
+    - Color palette
+        - [Flat UI colors](https://flatuicolors.com/)
     - Text Converter:
         - [Pandoc](https://github.com/jgm/pandoc/releases/tag/2.2.1) (Universal multiformat converter)
     - GIT workflow
