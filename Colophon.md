@@ -88,12 +88,14 @@
         - [React Navigation](https://reactnavigation.org/)
         - [React Native for Web](https://github.com/necolas/react-native-web)
         - [ReactXP](https://github.com/Microsoft/reactxp)
+        - React Native package searcher
+              - [JS.coach](https://js.coach/): search of packages for javascript, react, react native, etc.
         - React Native Vector icons
-        - [SVGs to React components](https://svgr.now.sh/)
-        - [React perftool](https://github.com/vaheqelyan/react-perftool): inspect the performance of React Js components
-        - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
-        - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
-        - [React Native community add-ons](https://github.com/react-native-community)
+              - [SVGs to React components](https://svgr.now.sh/)
+              - [React perftool](https://github.com/vaheqelyan/react-perftool): inspect the performance of React Js components
+              - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+              - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
+              - [React Native community add-ons](https://github.com/react-native-community)
     - _CHECK_ THIS [issue](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/issues/16/software)
 
 * Online tools
@@ -130,10 +132,11 @@
         - [Homebrew](http://brew.sh/): package manager
     - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool
-        - [Javascript validator](https://validatejavascript.com/):
+        - [Javascript validator](https://validatejavascript.com/): javascript validator
         - [Grunt.js](https://gruntjs.com/): automatization of javascript workload
         - [Node.js](https://nodejs.org/): JavaScript runtime _built on_ Chrome's V8 JavaScript engine
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
+        - [JS.coach](https://js.coach/): search of packages for javascript, react, react native, etc.
     - Icons:
         - [Iconvericons](https://iconverticons.com/): convert icons to meet system criteria according every major operating system
         - [Fontello](http://fontello.com/): icon font generator
