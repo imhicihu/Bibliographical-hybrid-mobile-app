@@ -150,6 +150,8 @@
         - [GitBook](https://www.gitbook.com/)
     - Deployment of code
         - [Zeit](https://zeit.co/)
+    - Plugins (curated and discriminated by topics)
+        - [Awesome design plugins](https://flawlessapp.io/designplugins)
     - Digital transfer 
         - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - Miscellaneous:
