@@ -7,6 +7,7 @@
 ## Offline accesing
 *  [Apps To Chat And Text With No Internet Connection Via Mesh Network](https://www.geckoandfly.com/22562/chat-without-internet-connection-mesh-network/)
 * [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
+* https://www.youtube.com/watch?v=lcS-r3wZxWQ
 
 ### Accesibility
 * [Death to icon fonts](https://speakerdeck.com/ninjanails/death-to-icon-fonts?slide=18)
@@ -14,7 +15,7 @@
 
 ### Data tables
 * [How-to: Create **accessible** data tables](https://a11yproject.com/posts/accessible-data-tables/%20https://a11yproject.com/posts/accessible-data-tables/)
-* [FixedDataTable React.js](https://www.ludofischer.com/blog/fixed-data-table-reactjs/): _leído_ Warning: FixedDataTable renders a combination of nested <div>s. If you require <table> markup for accessibility, this library is not for you.
+* [FixedDataTable React.js](https://www.ludofischer.com/blog/fixed-data-table-reactjs/): _read-on_ Warning: FixedDataTable renders a combination of nested <div>s. If you require <table> markup for accessibility, this library is not for you.
 * [Datatable](https://react.rocks/tag/DataTable)   (disparate examples of data tables)
 * [Data tables with real data](https://uxdesign.cc/data-tables-with-real-data-5745b0434a85) usability and use case on data tables best practices
 * [react-native-data-table](https://github.com/sussol/react-native-data-table)
