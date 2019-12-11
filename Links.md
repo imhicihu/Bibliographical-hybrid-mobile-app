@@ -4,6 +4,10 @@
 ### Emulators
 * [Android emulator](https://www.genymotion.com/)
 
+## Offline accesing
+*  [Apps To Chat And Text With No Internet Connection Via Mesh Network](https://www.geckoandfly.com/22562/chat-without-internet-connection-mesh-network/)
+* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
+
 ### Accesibility
 * [Death to icon fonts](https://speakerdeck.com/ninjanails/death-to-icon-fonts?slide=18)
 * [How to Make Your Website Accessible to People Who Use a Screen Magnifier ](https://dev.to/_bigblind/how-to-make-your-website-accessible-to-people-who-use-a-screen-magnifier)
