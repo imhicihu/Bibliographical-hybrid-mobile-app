@@ -4,7 +4,7 @@
 ### Emulators
 * [Android emulator](https://www.genymotion.com/)
 
-## Offline accesing
+### Offline accesing
 *  [Apps To Chat And Text With No Internet Connection Via Mesh Network](https://www.geckoandfly.com/22562/chat-without-internet-connection-mesh-network/)
 * [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
 * https://www.youtube.com/watch?v=lcS-r3wZxWQ
@@ -61,8 +61,11 @@
 * https://www.figma.com/
 * https://www.invisionapp.com/studio
 
-## Prototyping
+### Prototyping
 * [Facebook Origami](https://origami.design/)
 
-## IMHICIHU Digital repository (on the cloud)
+### IMHICIHU Digital repository (on the cloud)
 * [IMHICIHU digital repository](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/)
+
+### Guidelines
+* [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
