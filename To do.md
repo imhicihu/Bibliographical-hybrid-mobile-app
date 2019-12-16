@@ -2,6 +2,7 @@
 * https://www.browserstack.com/open-source
 * left-to-right & right-to-left writing support
 * [Poncho framework](https://argob.github.io/poncho/)
+* testing UX & digital environment vía [Ghostlab](https://www.vanamco.com/ghostlab/)
 * edit blank space in the beginning of some paragraph in `keyword.md`
 * [Lektor](https://www.getlektor.com/docs/) CMS to generate the support website (take in count the plugins section)
 * change app runtime language (support): English & Spanish ┐French?
