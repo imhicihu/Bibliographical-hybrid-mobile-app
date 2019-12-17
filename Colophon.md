@@ -106,6 +106,7 @@
         - [Gitpod](https://gitpod.io/): online IDE for Github
     - Testing and validators:
         - [Responsive Design Checker](phttp://responsivedesignchecker.com/)
+        - [Firefox Browser Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)
         - [BrowserStack](https://www.browserstack.com/)
         - [DevicePonsive](http://deviceponsive.com/)
         - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
