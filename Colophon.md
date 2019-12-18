@@ -158,6 +158,7 @@
     - Miscellaneous:
         - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
         - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
+        - [Word counter](https://wordcounttools.com/): 
         - [Google Books API](https://developers.google.com/books/): ~~take in count the limits/thresold on the queries~~ take in count the quota _allowed_!
 
 * Documentation
