@@ -166,6 +166,7 @@
      - [Mozilla Developers Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
      - [Developer certificate](https://developercertificate.org/)
      - [Devdocs.io](https://devdocs.io/): documentation about multiple APIs
+     - [libs.garden](https://libs.garden/): technical libraries searcher
      - [issuehub.io](http://issuehub.io/): Github issues searcher
      - Windows (and something in between, _ie._ Android environment) [accessibility guidelines](https://github.com/Microsoft/WindowsTemplateStudio/blob/dev/docs/accessibility.md)
      - [Localization checklist](https://www.transifex.com/resources/website-translation-checklist/)
