@@ -8,7 +8,8 @@
         - 21" Dell monitor
     
 * Software
-    
+    - Environmental setting up (initial)
+    	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
     - Backup:
         - [Duplicati](https://www.duplicati.com/) (open-source backup software)
         - [Smash](https://www.fromsmash.com/): (unlimited digital moving/transfer of digital assets)
