@@ -108,6 +108,7 @@
         - [Responsive Design Checker](phttp://responsivedesignchecker.com/)
         - [Firefox Browser Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)
         - [BrowserStack](https://www.browserstack.com/)
+        - [Bluepill](https://github.com/linkedin/bluepill): run iOS tests in parallel using multiple simulators.
         - [DevicePonsive](http://deviceponsive.com/)
         - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
         - [Appetize](https://appetize.io/): Run native mobile apps in your browser (_cons_: free tier > 100 minutes limit / month
