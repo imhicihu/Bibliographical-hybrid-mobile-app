@@ -50,6 +50,7 @@
         - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - Device simulator
         - [Appetize.io](https://appetize.io/)
+        - [SauceLabs][https://saucelabs.com/]: Live, automated and continuous testing for web & mobile apps
     - UX-UI
         - [Alva](https://meetalva.io/)
     - Node.js
@@ -114,6 +115,7 @@
         - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
         - [Appetize](https://appetize.io/): Run native mobile apps in your browser (_cons_: free tier > 100 minutes limit / month
         - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
+        - [SauceLabs][https://saucelabs.com/]: Live, automated and continuous testing for web & mobile apps
         - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn't adhere to certain style guidelines
     - Database:
         - [Firebase](https://firebase.google.com): database based on cloud. Management of users based on email accounts.
