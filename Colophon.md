@@ -133,6 +133,8 @@
     - Automatization on coding stage:
         - [Carbon](https://carbon.now.sh/): automatization on code screen sharing
         - [Fast Lane](https://fastlane.tools/): Automatization of deployments of apps
+    - Table converter
+        - [Table convert](https://tableconvert.com/): converter to a plethora of formats
     - Packages management
         - [Homebrew](http://brew.sh/): package manager
     - Javascript:
