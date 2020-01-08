@@ -10,6 +10,7 @@
 * https://github.com/styled-components/css-to-react-native   (take in count the component `css` and the variables that can handle as it most)
 * http://saucelabs.com/
 * [Heroku](https://www.heroku.com/) account creation
+* [Netlify](https://www.netlify.com/) account creation
 * download the [app](https://itunes.apple.com/app/apple-store/id982107779?pt=17102800&amp;ct=www&amp;mt=8)
 * create account on: https://www.haiku.ai/account/new
 * verify what license apply to this "kind of project": MIT, etc...
