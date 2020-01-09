@@ -50,7 +50,7 @@
         - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - Device simulator
         - [Appetize.io](https://appetize.io/)
-        - [SauceLabs][https://saucelabs.com/]: Live, automated and continuous testing for web & mobile apps
+        - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
     - UX-UI
         - [Alva](https://meetalva.io/)
     - Node.js
