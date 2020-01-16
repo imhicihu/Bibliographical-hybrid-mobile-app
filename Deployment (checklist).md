@@ -15,3 +15,4 @@ pd: check this out => https://developer.android.com/distribute/best-practices/la
 
 ## iOS
 * there is no plan to launch an iOS counterpart
+* check [notification.md](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/src/master/Notification.md)
