@@ -48,7 +48,7 @@
     - Text handling:
         - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
         - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
-    - Device simulator
+    - Device simulator:
         - [Appetize.io](https://appetize.io/)
         - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
     - UX-UI
@@ -56,6 +56,8 @@
     - Node.js
         - [n (interactive version management)](https://github.com/tj/n)
         - ![n.gif](https://i.ibb.co/9gjwKH2/687474703a2f2f6e696d69742e696f2f696d616765732f6e2f6e2e676966.gif)
+    - NPM packages
+        - [Electromon](https://www.npmjs.com/package/electromon): live reload on iterations and code handling
     - NPM management
         - [Luna](https://github.com/rvpanoz/luna)
     - IDE:
