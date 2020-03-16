@@ -13,6 +13,8 @@
 * [Netlify](https://www.netlify.com/) account creation
 * download the [app](https://itunes.apple.com/app/apple-store/id982107779?pt=17102800&amp;ct=www&amp;mt=8)
 * create account on: https://www.haiku.ai/account/new
+## Accesibility
+* [How to Design for Screen Readers with Adobe XD CC](https://www.sitepoint.com/how-to-design-for-screen-readers-with-adobe-xd-cc/?utm_source=feedly)
 * verify what license apply to this "kind of project": MIT, etc...
 * Privacy stuff: check this https://app-privacy-policy-generator.firebaseapp.com/   // https://github.com/nisrulz/app-privacy-policy-generator
 * ~~verify with Patricia about App Store policy under Conicet's umbrella. Particularly about copyright and legal directives & statements~~
