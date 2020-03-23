@@ -26,7 +26,7 @@
     - GIT workflow
         - [SourceTree](https://www.sourcetreeapp.com/): GIT client
     - Accesibility
-        - [Type Scale](https://type-scale.com/): a visual calculator (even Golden ratio)
+        - [Type Scale](https://type-scale.com/): a visual calculator (includes even Golden ratio)
     - Data validators:
         - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator): CSV self-validator
         - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator
@@ -53,6 +53,7 @@
         - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
     - UX-UI
         - [Alva](https://meetalva.io/)
+        - [OverVue](https://www.overvue.io/)
     - Node.js
         - [n (interactive version management)](https://github.com/tj/n)
         - ![n.gif](https://i.ibb.co/9gjwKH2/687474703a2f2f6e696d69742e696f2f696d616765732f6e2f6e2e676966.gif)
