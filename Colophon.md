@@ -17,7 +17,8 @@
     - Database handling:
         - [OpenRefine](http://openrefine.org/) (open-source tool for cleaning messy data)
         - [Tabula](https://github.com/tabulapdf/tabula): (Data tables management)
-    - Styling:
+    - Design-styling:
+        - [Ant-Design](https://ant.design/):
         - [Material-UI](https://material-ui.com/):
     - Color palette
         - [Flat UI colors](https://flatuicolors.com/)
