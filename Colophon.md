@@ -143,6 +143,7 @@
         - [Homebrew](http://brew.sh/): package manager
     - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool
+        - [Javascript scripting](https://www.javascripting.com/): source of the best JavaScript libraries, frameworks, and plugins
         - [Javascript validator](https://validatejavascript.com/): javascript validator
         - [Grunt.js](https://gruntjs.com/): automatization of javascript workload
         - [Node.js](https://nodejs.org/): JavaScript runtime _built on_ Chrome's V8 JavaScript engine
