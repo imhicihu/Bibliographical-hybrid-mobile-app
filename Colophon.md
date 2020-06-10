@@ -50,7 +50,7 @@
         - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
         - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - Device simulator:
-        - [Appetize.io](https://appetize.io/)
+        - [Appetize.io](https://appetize.io/): Run native mobile apps in a browser
         - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
     - UX-UI
         - [Alva](https://meetalva.io/)
@@ -163,6 +163,7 @@
         - [GitBook](https://www.gitbook.com/)
     - Deployment of code
         - [Zeit](https://zeit.co/)
+        - [Heroku](https://www.heroku.com/)
     - Plugins (curated and discriminated by topics)
         - [Awesome design plugins](https://flawlessapp.io/designplugins)
     - Digital transfer 
