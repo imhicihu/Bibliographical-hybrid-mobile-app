@@ -52,6 +52,8 @@
     - Device simulator:
         - [Appetize.io](https://appetize.io/): Run native mobile apps in a browser
         - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
+    - Previewer
+        - [Skala Preview](https://bjango.com/mac/skalapreview/): design previews from Mac to iOS and Android
     - Android File Transfer
         - [OpenMTP](https://openmtp.ganeshrvel.com/)
     - UX-UI
