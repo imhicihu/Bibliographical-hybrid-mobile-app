@@ -148,6 +148,7 @@
         - [Homebrew](http://brew.sh/): package manager
     - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool
+        - [jsconsole](https://jsconsole.com/): Web based Javascript console
         - [Javascript scripting](https://www.javascripting.com/): source of the best JavaScript libraries, frameworks, and plugins
         - [Javascript validator](https://validatejavascript.com/): javascript validator
         - [Grunt.js](https://gruntjs.com/): automatization of javascript workload
