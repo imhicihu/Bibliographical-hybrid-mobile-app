@@ -116,15 +116,18 @@
         - [Repl.it](https://repl.it/): online interactive programming environment
         - [Gitpod](https://gitpod.io/): online IDE for Github
     - Testing and validators:
-        - [Responsive Design Checker](phttp://responsivedesignchecker.com/)
-        - [Firefox Browser Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)
-        - [BrowserStack](https://www.browserstack.com/)
+        * Online:
+            - [Responsive Design Checker](phttp://responsivedesignchecker.com/)
+            - [BrowserStack](https://www.browserstack.com/)
+            - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
+            - [Appetize](https://appetize.io/): Run native mobile apps in your browser (_cons_: free tier > 100 minutes limit / month)
+        * Software:
+            - [Firefox Browser Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)
+            - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
+        * Browser extension:
+            - [Sizzy](https://chrome.google.com/webstore/detail/sizzy/nfhlbmjiiogoelaflfclodlkncbdiefo?hl=en)
         - [Bluepill](https://github.com/linkedin/bluepill): run iOS tests in parallel using multiple simulators.
-        - [DevicePonsive](http://deviceponsive.com/)
-        - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
-        - [Appetize](https://appetize.io/): Run native mobile apps in your browser (_cons_: free tier > 100 minutes limit / month
         - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
-        - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
         - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn't adhere to certain style guidelines
     - Database:
         - [Firebase](https://firebase.google.com): database based on cloud. Management of users based on email accounts.
