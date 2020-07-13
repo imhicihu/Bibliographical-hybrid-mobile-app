@@ -50,6 +50,7 @@
         - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
         - [Beam](http://www.bean-osx.com/Bean.html): word processor for MacOSX
     - Device simulator:
+        - [Responsively App](https://github.com/manojVivek/responsively-app): 30+ built-in device profiles with option to add custom devices
         - [Appetize.io](https://appetize.io/): Run native mobile apps in a browser
         - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
     - Previewer
