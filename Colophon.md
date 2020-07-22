@@ -118,8 +118,9 @@
         - [Gitpod](https://gitpod.io/): online IDE for Github
     - Testing and validators:
         * Online:
-            - [Responsive Design Checker](phttp://responsivedesignchecker.com/)
+            - [Responsive Design Checker](http://responsivedesignchecker.com/)
             - [BrowserStack](https://www.browserstack.com/)
+            - [Contrast checker](https://webaim.org/resources/contrastchecker/)
             - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
             - [Appetize](https://appetize.io/): Run native mobile apps in your browser (_cons_: free tier > 100 minutes limit / month)
         * Software:
