@@ -127,7 +127,9 @@
             - [Firefox Browser Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)
             - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
         * Browser extension:
-            - [Sizzy](https://chrome.google.com/webstore/detail/sizzy/nfhlbmjiiogoelaflfclodlkncbdiefo?hl=en)
+            - [Sizzy](https://chrome.google.com/webstore/detail/sizzy/nfhlbmjiiogoelaflfclodlkncbdiefo?hl=en): responsive development
+            - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en): automated tool for improving the performance, quality, and correctness of your web apps
+            - [ChromeVox](https://chrome.google.com/webstore/detail/chromevox-classic-extensi/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en): screen reader to brings the speed, versatility, and security of Chrome to visually impaired users.
         - [Bluepill](https://github.com/linkedin/bluepill): run iOS tests in parallel using multiple simulators.
         - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
         - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn't adhere to certain style guidelines
