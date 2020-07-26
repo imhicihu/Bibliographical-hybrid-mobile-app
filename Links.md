@@ -69,3 +69,4 @@
 
 ### Guidelines
 * [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+* [App store review guidelines history](https://www.appstorereviewguidelineshistory.com/)
