@@ -57,6 +57,7 @@
         - [Responsively App](https://github.com/manojVivek/responsively-app): 30+ built-in device profiles with option to add custom devices
         - [Appetize.io](https://appetize.io/): Run native mobile apps in a browser
         - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
+        - [Emmet Re:view](http://re-view.emmet.io/): Chrome extension to test responsive design in multiple viewports
     - Previewer
         - [Skala Preview](https://bjango.com/mac/skalapreview/): design previews from Mac to iOS and Android
     - Android File Transfer
@@ -71,6 +72,8 @@
         - [Electromon](https://www.npmjs.com/package/electromon): live reload on iterations and code handling
     - NPM management
         - [Luna](https://github.com/rvpanoz/luna)
+    - CSS
+        - [Emmet LiveStyle](http://livestyle.io/)
     - IDE:
         - [Deco IDE](https://www.decoide.org/)
         - [Reactide](https://github.com/reactide/reactide)
