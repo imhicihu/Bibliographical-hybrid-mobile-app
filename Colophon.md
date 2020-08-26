@@ -67,7 +67,7 @@
         - [OverVue](https://www.overvue.io/)
     - Node.js
         - [n (interactive version management)](https://github.com/tj/n)
-        - ![n.gif](https://i.ibb.co/9gjwKH2/687474703a2f2f6e696d69742e696f2f696d616765732f6e2f6e2e676966.gif)
+        ![n.gif](https://i.ibb.co/9gjwKH2/687474703a2f2f6e696d69742e696f2f696d616765732f6e2f6e2e676966.gif)
     - NPM packages
         - [Electromon](https://www.npmjs.com/package/electromon): live reload on iterations and code handling
     - NPM management
@@ -189,6 +189,8 @@
         - [Awesome design plugins](https://flawlessapp.io/designplugins)
     - Digital transfer 
         - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
+    - Changelog
+        - [Headway](https://headwayapp.co/)
     - Miscellaneous:
         - [Hotel](https://github.com/typicode/hotel): Start apps from your browser and use local domains/https automatically (even proxy server!)
         - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
