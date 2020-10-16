@@ -98,6 +98,7 @@
         - [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
         - [React Bootstrap](https://react-bootstrap.github.io/)
         - [React Semantic UI](https://react.semantic-ui.com/)
+        - [React Spectrum](https://github.com/adobe/react-spectrum)
         - [React Hot Loader](https://github.com/gaearon/react-hot-loader) --> motif: Tweak React components in real time
         - [Reactstrap](https://reactstrap.github.io/)
         - [React Native UI Blueprint](https://github.com/nidorx/react-native-ui-blueprint)
