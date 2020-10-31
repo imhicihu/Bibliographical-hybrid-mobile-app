@@ -1,4 +1,4 @@
-## Technical requeriments ##
+## Technical requirements ##
 
 * Hardware
     - a computer with a stable operating system. In this project we use this hardware (not mandatory):
