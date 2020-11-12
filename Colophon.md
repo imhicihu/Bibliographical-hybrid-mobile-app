@@ -125,21 +125,23 @@
         - [Repl.it](https://repl.it/): online interactive programming environment
         - [Gitpod](https://gitpod.io/): online IDE for Github
     - Testing and validators:
-        * Online:
-            - [Responsive Design Checker](http://responsivedesignchecker.com/)
-            - [BrowserStack](https://www.browserstack.com/)
-            - [Contrast checker](https://webaim.org/resources/contrastchecker/)
-            - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
-            - [Appetize](https://appetize.io/): Run native mobile apps in your browser (_cons_: free tier > 100 minutes limit / month)
-        * Survey
-            - SurveyMonkey(https://www.surveymonkey.com/)
-        * Software:
-            - [Firefox Browser Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)
-            - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
-        * Browser extension:
-            - [Sizzy](https://chrome.google.com/webstore/detail/sizzy/nfhlbmjiiogoelaflfclodlkncbdiefo?hl=en): responsive development
-            - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en): automated tool for improving the performance, quality, and correctness of your web apps
-            - [ChromeVox](https://chrome.google.com/webstore/detail/chromevox-classic-extensi/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en): screen reader to brings the speed, versatility, and security of Chrome to visually impaired users.
+         - Data validator
+               - [Goodtables](https://goodtables.io/): frictionless tool to validate data, particularly spreadsheets
+         - Online:
+               - [Responsive Design Checker](http://responsivedesignchecker.com/)
+               - [BrowserStack](https://www.browserstack.com/)
+               - [Contrast checker](https://webaim.org/resources/contrastchecker/)
+               - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
+               - [Appetize](https://appetize.io/): Run native mobile apps in your browser (_cons_: free tier > 100 minutes limit / month)
+        - Survey
+               - [SurveyMonkey](https://www.surveymonkey.com/)
+        - Software:
+               - [Firefox Browser Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)
+               - [Reactotron](https://github.com/infinitered/reactotron): app to inspect your React JS and React Native apps.
+        - Browser extension:
+              - [Sizzy](https://chrome.google.com/webstore/detail/sizzy/nfhlbmjiiogoelaflfclodlkncbdiefo?hl=en): responsive development
+              - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en): automated tool for improving the performance, quality, and correctness of your web apps
+              - [ChromeVox](https://chrome.google.com/webstore/detail/chromevox-classic-extensi/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en): screen reader to brings the speed, versatility, and security of Chrome to visually impaired users.
         - [Bluepill](https://github.com/linkedin/bluepill): run iOS tests in parallel using multiple simulators.
         - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
         - [ESLint](https://eslint.org/): static analysis to find problematic patterns or code that doesn't adhere to certain style guidelines
