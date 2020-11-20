@@ -6,7 +6,7 @@
 * edit blank space in the beginning of some paragraph in `keyword.md`
 * [Lektor](https://www.getlektor.com/docs/) CMS to generate the support website (take in count the plugins section)
 * change app runtime language (support): English & Spanish ┐French?
-* create an account in https://expo.io/
+* ~~create an account in https://expo.io/~~
 * https://github.com/styled-components/css-to-react-native   (take in count the component `css` and the variables that can handle as it most)
 * http://saucelabs.com/
 * [Heroku](https://www.heroku.com/) account creation
