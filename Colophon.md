@@ -190,6 +190,8 @@
         - [Heroku](https://www.heroku.com/)
     - Plugins (curated and discriminated by topics)
         - [Awesome design plugins](https://flawlessapp.io/designplugins)
+    - Typography
+        - [Utopia](https://utopia.fyi/): responsive typography css calculator
     - Digital transfer 
         - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
     - Changelog
