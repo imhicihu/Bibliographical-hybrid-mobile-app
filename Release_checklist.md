@@ -3,7 +3,7 @@
 * If submodules are out of date `git submodule update --init --recursive`
 * Remove node modules `rm -rf node_modules`
 * Install fresh packages `yarn install`
-* Compile assets - `yarn compile`
+* Compile assets `yarn compile`
 * Run the test suite `yarn test`
 * Change the version in `package.json`
 * Commit and push
