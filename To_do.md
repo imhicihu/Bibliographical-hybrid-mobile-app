@@ -13,6 +13,7 @@
 * [Netlify](https://www.netlify.com/) account creation
 * download the [app](https://itunes.apple.com/app/apple-store/id982107779?pt=17102800&amp;ct=www&amp;mt=8)
 * create account on: https://www.haiku.ai/account/new
+* CLA-Github bot -> https://github.com/apps/cla-bot
 
 ## Accesibility
 * [How to Design for Screen Readers with Adobe XD CC](https://www.sitepoint.com/how-to-design-for-screen-readers-with-adobe-xd-cc/?utm_source=feedly)
