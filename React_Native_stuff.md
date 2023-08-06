@@ -1,4 +1,4 @@
-## React Native stuff
+### React Native stuff
 
 * [React Native Getting Started](http://facebook.github.io/react-native/docs/getting-started.html)
 * [Storybook](https://github.com/storybooks/storybook)   // Check this examples about the possibilities offered: https://storybook.js.org/examples/
@@ -15,6 +15,7 @@
 
 ### Accesibility
 * [react-selffocus-element](https://github.com/anubhavsrivastava/react-selffocus-element):  This is essential for seeking attention on a particular element. This can also help in getting attention of screen readers like VoiceOver, JAWS, NVDA...
+<BR></BR>
 ![IMG_4303.PNG](https://bitbucket.org/repo/5qRy4oR/images/579521404-IMG_4303.PNG)
 
 ### Text handling
@@ -49,7 +50,7 @@
 * [ReactNavigation](https://reactnavigation.org/)
 * https://reactnavigation.org/docs/alternatives.html
 
-### UI / UX 
+### UI/UX 
 * https://sketch2react.io/
 * https://material-ui.com/
 
