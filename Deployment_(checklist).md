@@ -1,4 +1,4 @@
-## Android
+### Android
 * create a Google Play Developer Account (sign in with your `@gmail` account). 
 * pay [U$S 25](https://www.appypie.com/faqs/how-much-does-a-googleapple-developer-account-cost) for once and all
 * create app icon according Google Play
@@ -13,7 +13,7 @@
 
 pd: check this out => https://developer.android.com/distribute/best-practices/launch/launch-checklist
 
-## iOS
+### iOS
 * create an account in [Apple developer program](https://developer.apple.com/programs/)
 * pay [u$S99](https://developer.apple.com/programs/how-it-works/) per membership year
 * there is no plan to launch an iOS counterpart
