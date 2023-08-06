@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements ###
 
 * Hardware
     - a computer with a stable operating system. In this project we use this hardware (not mandatory):
@@ -67,7 +67,8 @@
         - [OverVue](https://www.overvue.io/)
     - Node.js
         - [n (interactive version management)](https://github.com/tj/n)
-        ![n.gif](https://i.ibb.co/9gjwKH2/687474703a2f2f6e696d69742e696f2f696d616765732f6e2f6e2e676966.gif)
+    <BR></BR>
+    ![n.gif](https://i.ibb.co/9gjwKH2/687474703a2f2f6e696d69742e696f2f696d616765732f6e2f6e2e676966.gif)
     - NPM packages
         - [Electromon](https://www.npmjs.com/package/electromon): live reload on iterations and code handling
     - NPM management
@@ -214,6 +215,6 @@
      - [Localization checklist](https://www.transifex.com/resources/website-translation-checklist/)
      - [User Interface Guidelines](https://developer.android.com/guide/practices/ui_guidelines/)
 
-## Legal ##
+### Legal ###
 
 * All trademarks are the property of their respective owners.
