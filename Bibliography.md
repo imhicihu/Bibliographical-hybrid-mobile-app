@@ -1,4 +1,4 @@
-## MicroIsis / WinIsis:
+### MicroIsis / WinIsis:
 
 * _Manual Winisis_: versión 1997. Córdoba: Universidad Nacional de Córdoba. Secretaría de Administración. Departamento Cómputos, 1997. 63 h.; 30 cm.  (vide #22428) ===> Solicitar a/por: `Depósito Proatlas 016321`
 
@@ -27,7 +27,7 @@
 ![IMG_3943.JPG](https://bitbucket.org/repo/EBnakg/images/1338479007-IMG_3943.JPG)
 
 
-## React Native / React JS / Redux
+### React Native / React JS / Redux
 * _Learning React_: Alex Banks & Eve Porcello  (O'Reilly Media, 2017)
 * _Mastering React Native_: Eric Masiello & Jacob Friedmann (Packt Publishing, 2017)
 * _ReactJS Blueprints_: Sven Anders Robbestad (Packt Publishing, 2016)
@@ -39,16 +39,16 @@
 * _React: Cross-Platform Application Development with React Native: Build 4 real-world apps with React Native_: Emilio Rodriguez Martinez (Packt Publishing, 2018-03-13, 182 pages)
 * [Dissecting React Native](https://developer.ibm.com/articles/dissecting-react-native/)
 
-## Database
+### Database
 * _Android database best practices_: Adam Stroud (Addison-Wesley Professional, 2016, 288 pp.)
 
-## UX
+### UX
 * _UX Fundamentals for Non-UX Professionals: User Experience Principles for Managers, Writers, Designers, and Developers_: Edward Stull (Apress, 2018, 349 pp.)
 
-## Data visualization
+### Data visualization
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 	
-## Javascript
+### Javascript
 * _Javascript: The Good parts_: Douglas Crockford (O`Reilly Media, 2008)
 * _Javascript: The definitive guide_: David Flanagan (O'Reilly Media, 2001)
 * [The Mozilla Developer Network: Javascript resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -59,6 +59,6 @@
 * _Speaking JavaScript_: Axel Rauschmayer (O'Reilly Media, 2014, 460 pp. ISBN13: 9781449365035). Online version can be read it [here](http://speakingjs.com/es5/index.html)
 
 
-## Miscellaneous
+### Miscellaneous
 * ~~_[Make your apps serverless](https://www.creativebloq.com/features/how-to-make-your-apps-serverless)_ Net, may 2017, p.96-97~~ ---> read, but out of our possibilities. We need a `https` server --> _sine qua non_ condition
 * _Beginning Hybrid Mobile Application Development_: Mahesh Panhale (Apress, 2015)
