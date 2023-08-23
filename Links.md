@@ -14,7 +14,7 @@
 * [How to Make Your Website Accessible to People Who Use a Screen Magnifier ](https://dev.to/_bigblind/how-to-make-your-website-accessible-to-people-who-use-a-screen-magnifier)
 
 ### Data tables
-* [How-to: Create **accessible** data tables](https://a11yproject.com/posts/accessible-data-tables/%20https://a11yproject.com/posts/accessible-data-tables/)
+* [How-to: Create **accessible** data tables](https://a11yproject.com/posts/accessible-data-tables/)
 * [FixedDataTable React.js](https://www.ludofischer.com/blog/fixed-data-table-reactjs/): _read-on_ Warning: FixedDataTable renders a combination of nested <div>s. If you require <table> markup for accessibility, this library is not for you.
 * [Datatable](https://react.rocks/tag/DataTable)   (disparate examples of data tables)
 * [Data tables with real data](https://uxdesign.cc/data-tables-with-real-data-5745b0434a85) usability and use case on data tables best practices
@@ -32,7 +32,7 @@
 * https://github.com/sussol/react-native-generic-table-page
 * https://stackoverflow.com/questions/42459098/data-table-for-react-native#
 
-## Javascript
+### Javascript
 * Javascript bundled assets: [Webpack](https://github.com/webpack/webpack)
 <BR></BR>
 ![IMG_4368.PNG](https://bitbucket.org/repo/5qRy4oR/images/185871186-IMG_4368.PNG)
