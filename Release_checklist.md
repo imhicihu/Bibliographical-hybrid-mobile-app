@@ -1,3 +1,4 @@
+### Release checklist
 * Merge staging into `master` - Don't "Squash & Merge", just do a regular merge
 * Check out `master`
 * If submodules are out of date `git submodule update --init --recursive`
