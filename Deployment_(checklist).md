@@ -7,7 +7,7 @@
 * fix the issues all the issues received --> create a repo in [Github](https://github.com) for this purpose
 * generate a [Signed Production APK](https://facebook.github.io/react-native/docs/signed-apk-android.html)
 * create the app in the [Google Play Console](http://play.google.com/)
-* Upload to the Google Play
+* Upload to Google Play
 * Wait the approval
 
 
@@ -17,5 +17,5 @@ pd: check this out => https://developer.android.com/distribute/best-practices/la
 * create an account in [Apple developer program](https://developer.apple.com/programs/)
 * pay [u$S99](https://developer.apple.com/programs/how-it-works/) per membership year
 * there is no plan to launch an iOS counterpart
-* check [notification.md](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/src/master/Notification.md)
+* check [notification.md](Notification.md)
 * [Pricey](https://developer.apple.com/support/purchase-activation/): 99 U$S dollars annual fee 
