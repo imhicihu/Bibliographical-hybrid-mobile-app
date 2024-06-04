@@ -60,9 +60,9 @@
      - [Bibliographic data on iOS devices](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/)
      - [IMHICIHU Digital repository](https://bitbucket.org/digital_repository/imhicihu-digital-repository/)
 
-### Source ###
+### Disclaimer
 
-* Check them on [here](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/src)
+* This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes
 
 ### Changelog ###
 
