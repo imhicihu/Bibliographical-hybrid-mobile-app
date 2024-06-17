@@ -1,19 +1,19 @@
-### Framework (for websites made on Argentina)
+#### Framework (for websites made on Argentina)
 * [Poncho (framework)](http://argob.github.io/poncho/)
 
-### Emulators
+#### Emulators
 * [Android emulator](https://www.genymotion.com/)
 
-### Offline accesing
+#### Offline accesing
 *  [Apps To Chat And Text With No Internet Connection Via Mesh Network](https://www.geckoandfly.com/22562/chat-without-internet-connection-mesh-network/)
 * [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
 * https://www.youtube.com/watch?v=lcS-r3wZxWQ
 
-### Accesibility
+#### Accesibility
 * [Death to icon fonts](https://speakerdeck.com/ninjanails/death-to-icon-fonts?slide=18)
 * [How to Make Your Website Accessible to People Who Use a Screen Magnifier ](https://dev.to/_bigblind/how-to-make-your-website-accessible-to-people-who-use-a-screen-magnifier)
 
-### Data tables
+#### Data tables
 * [How-to: Create **accessible** data tables](https://a11yproject.com/posts/accessible-data-tables/)
 * [FixedDataTable React.js](https://www.ludofischer.com/blog/fixed-data-table-reactjs/): _read-on_ Warning: FixedDataTable renders a combination of nested <div>s. If you require <table> markup for accessibility, this library is not for you.
 * [Datatable](https://react.rocks/tag/DataTable)   (disparate examples of data tables)
@@ -32,14 +32,14 @@
 * https://github.com/sussol/react-native-generic-table-page
 * https://stackoverflow.com/questions/42459098/data-table-for-react-native#
 
-### Javascript
+#### Javascript
 * Javascript bundled assets: [Webpack](https://github.com/webpack/webpack)
 <BR></BR>
 ![IMG_4368.PNG](https://bitbucket.org/repo/5qRy4oR/images/185871186-IMG_4368.PNG)
 ![IMG_4367.PNG](https://bitbucket.org/repo/5qRy4oR/images/472163271-IMG_4367.PNG)
 ![IMG_4336.PNG](https://bitbucket.org/repo/5qRy4oR/images/2391158307-IMG_4336.PNG)
 
-### React Native
+#### React Native
 * [Storybook](https://github.com/storybooks/storybook)   // Check this examples about the possibilities offered: https://storybook.js.org/examples/
 * https://medium.com/the-react-native-log
 * [Organizing a React Native Project](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
@@ -52,22 +52,22 @@
 * https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae
 * [Copy to clipboard](https://medium.com/the-react-native-log/react-native-basics-copy-to-clipboard-86023cda4175)  (give it a try, because of an idea I got ---> the book or author choosen, paste it in the mail to reserve it)
 
-### Deployment
+#### Deployment
 * [Fastlane](https://fastlane.tools/) (part of Google?)
 
-### Icons
+#### Icons
 * a kind of [FontAwesome generator](https://icomoon.io/app/#/select)
 
-### UX
+#### UX
 * https://www.figma.com/
 * https://www.invisionapp.com/studio
 
-### Prototyping
+#### Prototyping
 * [Facebook Origami](https://origami.design/)
 
-### IMHICIHU Digital repository (on the cloud)
+#### IMHICIHU Digital repository (on the cloud)
 * [IMHICIHU digital repository](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/)
 
-### Guidelines
+#### Guidelines
 * [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 * [App store review guidelines history](https://www.appstorereviewguidelineshistory.com/)
