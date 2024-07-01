@@ -13,8 +13,6 @@
 * ~~[React Native for Web](https://github.com/necolas/react-native-web)~~
 * ~~Migrate Del.icio.us gathered links to Evernote~~
 
-### User login
-* [Universal login](https://auth0.com/universal-login/)
 
 ### Miscellaneous
 * Accesibilidad en Argentina: https://github.com/argob/accesibilidad-web/blob/master/docs/funciones_voiceover.md
