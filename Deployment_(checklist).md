@@ -4,7 +4,6 @@
 * create app icon according Google Play
 * create splash screen app according Google Play
 * share via [Expo.io](https://expo.io) the app for beta testing.
-* fix the issues all the issues received --> create a repo in [Github](https://github.com) for this purpose
 * generate a [Signed Production APK](https://facebook.github.io/react-native/docs/signed-apk-android.html)
 * create the app in the [Google Play Console](http://play.google.com/)
 * Upload to Google Play
