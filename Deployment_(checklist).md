@@ -9,8 +9,8 @@
 * Upload to Google Play
 * Wait the approval
 
-
-pd: check this out => https://developer.android.com/distribute/best-practices/launch/launch-checklist
+> [!TIP]
+> [Helpful advice for doing things better or more easily.](https://play.google.com/console/about/guides/releasewithconfidence/) 
 
 ### iOS
 * create an account in [Apple developer program](https://developer.apple.com/programs/)
