@@ -35,9 +35,9 @@
 #### Javascript
 * Javascript bundled assets: [Webpack](https://github.com/webpack/webpack)
 <BR></BR>
-![IMG_4368.PNG](https://bitbucket.org/repo/5qRy4oR/images/185871186-IMG_4368.PNG)
-![IMG_4367.PNG](https://bitbucket.org/repo/5qRy4oR/images/472163271-IMG_4367.PNG)
-![IMG_4336.PNG](https://bitbucket.org/repo/5qRy4oR/images/2391158307-IMG_4336.PNG)
+![IMG_4368.PNG](/images/185871186-IMG_4368.png)
+![IMG_4367.PNG](/images/472163271-IMG_4367.png)
+![IMG_4336.PNG](/images/2391158307-IMG_4336.png)
 
 #### React Native
 * [Storybook](https://github.com/storybooks/storybook)   // Check this examples about the possibilities offered: https://storybook.js.org/examples/
