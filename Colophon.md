@@ -1,4 +1,4 @@
-### Technical requirements ###
+### Technical requirements
 
 * Hardware
     - a computer with a stable operating system. In this project we use this hardware (not mandatory):
@@ -6,7 +6,6 @@
         - Macbook Air 11" (_not eligible for data-table-grid cleaning_)
         - Macbook 13"
         - 21" Dell monitor
-        - Dell notebook 15"
         - Satechi Type-C Multiport Adapter (hub USB & Network access)
         - _Hosting_: Consorcio Saavedra 15
         - _Bandwidth_: Consorcio Saavedra 15
@@ -217,4 +216,4 @@
 
 ### Legal ###
 
-* All trademarks are the property of their respective owners.
+* All trademarks are the property of their respective owners
