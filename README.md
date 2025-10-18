@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="images/MChG4d3AT8KesLYSebC7hQ.webp?raw=true" alt="Logotipo de Biblio-searcher"/>
+</p>
+
+---
+
 ![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
 ![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
