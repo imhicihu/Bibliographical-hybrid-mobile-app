@@ -13,7 +13,7 @@
 * Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: ~~Xcode~~, ~~Swift~~, a browser, Javascript, React Native, Html5, Css3, device emulators and many more. This is an _in-house_ solution that it will be evolving in the future
 * The principles of this project were driven by [The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
 * This repo is a living document that will grow and adapt over time
-![workflow.png](https://bitbucket.org/repo/MrE756y/images/3463980837-workflow.png)
+![workflow.png](images/3463980837-workflow.png)
 
 ### What is this repository for? ###
 
