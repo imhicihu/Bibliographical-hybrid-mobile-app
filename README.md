@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/MChG4d3AT8KesLYSebC7hQ.webp?raw=true" alt="Logotipo de Biblio-searcher"/>
+  <img src="images/MChG4d3AT8KesLYSebC7hQ.webp?raw=true" alt="Logotipo de Biblio-searcher" weight="480" height="680"/>
 </p>
 
 ---
@@ -8,19 +8,19 @@
 ![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
 ![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
-# Rationale / [Motivación](LEEME.md)
+## Rationale / [Motivación](LEEME.md)
 
 * Workflow / Seminal Project: A kind of hybrid app involving different languages and tools: ~~Xcode~~, ~~Swift~~, a browser, Javascript, React Native, Html5, Css3, device emulators and many more. This is an _in-house_ solution that it will be evolving in the future
 * The principles of this project were driven by [The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
 * This repo is a living document that will grow and adapt over time
 ![workflow.png](images/3463980837-workflow.png)
 
-### What is this repository for? ###
+### What is this repository for?
 
 * _In a nutshell_, a hybrid mobile-native app
 * Version 1.1
 
-### How do I get set up? ###
+### How do I get set up?
 
 * Software
      - ~~[Xcode](https://developer.apple.com/xcode/)~~ 
@@ -57,7 +57,7 @@
      - Preliminarily, our instructions can be seen [here](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/src/master/Deployment%20(checklist).md)
      - Up to now, there is _no_ plan to release source code
 
-### Related repositories ###
+### Related repositories
 
 * Some repositories linked with this project:
      - [ISKM2017 - Mobile App](https://bitbucket.org/imhicihu/iskm2017-mobile-app/src/)
@@ -71,7 +71,7 @@
 
 * This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes
 
-### Changelog ###
+### Changelog
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/commits/) section for the current status
 
@@ -79,6 +79,6 @@
 
 * Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-webapp-app/src/master/code_of_conduct.md)
 
-### Legal ###
+### Legal
 
 * All trademarks are the property of their respective owners
